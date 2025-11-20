@@ -1,0 +1,4667 @@
+[
+    {
+        "id": 1,
+        "frase": "A maneira de começar é parar de falar e começar a fazer.",
+        "autor": "Walt Disney"
+    },
+    {
+        "id": 2,
+        "frase": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+        "autor": "Nelson Mandela"
+    },
+    {
+        "id": 3,
+        "frase": "Seu tempo é limitado, não o desperdice vivendo a vida de outra pessoa.",
+        "autor": "Steve Jobs"
+    },
+    {
+        "id": 4,
+        "frase": "Você pode não controlar todos os eventos que acontecem com você, mas pode decidir não ser reduzido por eles.",
+        "autor": "Maya Angelou"
+    },
+    {
+        "id": 5,
+        "frase": "Não conte os dias, faça os dias contarem.",
+        "autor": "Muhammad Ali"
+    },
+    {
+        "id": 6,
+        "frase": "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
+        "autor": "Eleanor Roosevelt"
+    },
+    {
+        "id": 7,
+        "frase": "A imaginação é mais importante que o conhecimento.",
+        "autor": "Albert Einstein"
+    },
+    {
+        "id": 8,
+        "frase": "O maior desafio da vida é ser você mesmo em um mundo que tenta fazer você ser igual a todo mundo.",
+        "autor": "Oprah Winfrey"
+    },
+    {
+        "id": 9,
+        "frase": "A escuridão não pode expulsar a escuridão; só a luz pode fazer isso. O ódio não pode expulsar o ódio; só o amor pode fazer isso.",
+        "autor": "Martin Luther King Jr."
+    },
+    {
+        "id": 10,
+        "frase": "Grandes coisas são feitas por uma série de pequenas coisas reunidas.",
+        "autor": "Vincent Van Gogh"
+    },
+    {
+        "id": 11,
+        "frase": "Não importa o quão devagar você vá, desde que não pare.",
+        "autor": "Confúcio"
+    },
+    {
+        "id": 12,
+        "frase": "Sozinhos podemos fazer tão pouco; juntos podemos fazer tanto.",
+        "autor": "Helen Keller"
+    },
+    {
+        "id": 13,
+        "frase": "Não reze por uma vida fácil, reze pela força para suportar uma vida difícil.",
+        "autor": "Bruce Lee"
+    },
+    {
+        "id": 14,
+        "frase": "Seja a mudança que você quer ver no mundo.",
+        "autor": "Mahatma Gandhi"
+    },
+    {
+        "id": 15,
+        "frase": "Quando você quer alguma coisa, todo o universo conspira para que você realize seu desejo.",
+        "autor": "Paulo Coelho"
+    },
+    {
+        "id": 16,
+        "frase": "O sucesso é frequentemente alcançado por aqueles que não sabem que o fracasso é inevitável.",
+        "autor": "Coco Chanel"
+    },
+    {
+        "id": 17,
+        "frase": "O sucesso não é final, o fracasso não é fatal: é a coragem de continuar que conta.",
+        "autor": "Winston Churchill"
+    },
+    {
+        "id": 18,
+        "frase": "Nós somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito.",
+        "autor": "Aristóteles"
+    },
+    {
+        "id": 19,
+        "frase": "Os dois dias mais importantes da sua vida são o dia em que você nasceu e o dia em que você descobre o porquê.",
+        "autor": "Mark Twain"
+    },
+    {
+        "id": 20,
+        "frase": "Se você julga as pessoas, não tem tempo para amá-las.",
+        "autor": "Mother Teresa"
+    },
+    {
+        "id": 21,
+        "frase": "Quer você pense que pode ou que não pode, de qualquer forma você está certo.",
+        "autor": "Henry Ford"
+    },
+    {
+        "id": 22,
+        "frase": "A felicidade não é algo pronto. Ela vem das suas próprias ações.",
+        "autor": "Dalai Lama"
+    },
+    {
+        "id": 23,
+        "frase": "Seja você mesmo; todos os outros já foram escolhidos.",
+        "autor": "Oscar Wilde"
+    },
+    {
+        "id": 24,
+        "frase": "Escreva em seu coração que todo dia é o melhor dia do ano.",
+        "autor": "Ralph Waldo Emerson"
+    },
+    {
+        "id": 25,
+        "frase": "A vida não examinada não vale a pena ser vivida.",
+        "autor": "Sócrates"
+    },
+    {
+        "id": 26,
+        "frase": "Não preocupe-se com uma coisa, porque tudo vai dar certo.",
+        "autor": "Bob Marley"
+    },
+    {
+        "id": 27,
+        "frase": "O melhor jeito de prever o futuro é criá-lo.",
+        "autor": "Abraham Lincoln"
+    },
+    {
+        "id": 28,
+        "frase": "Nada na vida deve ser temido, apenas compreendido. Agora é hora de compreender mais para temer menos.",
+        "autor": "Marie Curie"
+    },
+    {
+        "id": 29,
+        "frase": "Acredite que você pode e você já está no meio do caminho.",
+        "autor": "Theodore Roosevelt"
+    },
+    {
+        "id": 30,
+        "frase": "Como é maravilhoso que ninguém precise esperar um único momento antes de começar a melhorar o mundo.",
+        "autor": "Anne Frank"
+    },
+    {
+        "id": 31,
+        "frase": "Aquele que tem um porquê para viver pode suportar quase qualquer como.",
+        "autor": "Friedrich Nietzsche"
+    },
+    {
+        "id": 32,
+        "frase": "Atire para a lua. Mesmo se você errar, vai aterrissar entre as estrelas.",
+        "autor": "Les Brown"
+    },
+    {
+        "id": 33,
+        "frase": "Se você está sempre tentando ser normal, você nunca saberá o quão incrível você pode ser.",
+        "autor": "Maya Angelou"
+    },
+    {
+        "id": 34,
+        "frase": "É impossível viver sem falhar em alguma coisa, a menos que você viva tão cautelosamente que pode muito bem não ter vivido.",
+        "autor": "J.K. Rowling"
+    },
+    {
+        "id": 35,
+        "frase": "Diga-me e eu esqueço, ensina-me e eu lembro, envolva-me e eu aprendo.",
+        "autor": "Benjamin Franklin"
+    },
+    {
+        "id": 36,
+        "frase": "Um livro, uma caneta, uma criança e um professor podem mudar o mundo.",
+        "autor": "Malala Yousafzai"
+    },
+    {
+        "id": 37,
+        "frase": "Uma jornada de mil milhas começa com um único passo.",
+        "autor": "Lao Tzu"
+    },
+    {
+        "id": 38,
+        "frase": "Entre o estímulo e a resposta há um espaço. Nesse espaço está nosso poder de escolher nossa resposta.",
+        "autor": "Viktor Frankl"
+    },
+    {
+        "id": 39,
+        "frase": "Você nasceu com asas, por que prefere rastejar pela vida?",
+        "autor": "Rumi"
+    },
+    {
+        "id": 40,
+        "frase": "Você é a média das cinco pessoas com quem você passa mais tempo.",
+        "autor": "Jim Rohn"
+    },
+    {
+        "id": 41,
+        "frase": "A única coisa impossível é aquilo que você não tenta.",
+        "autor": "Tony Robbins"
+    },
+    {
+        "id": 42,
+        "frase": "Você não tem que ser ótimo para começar, mas tem que começar para ser ótimo.",
+        "autor": "Zig Ziglar"
+    },
+    {
+        "id": 43,
+        "frase": "Não sou o que aconteceu comigo, sou o que escolho me tornar.",
+        "autor": "Carl Jung"
+    },
+    {
+        "id": 44,
+        "frase": "A disciplina é a ponte entre metas e conquistas.",
+        "autor": "Jim Rohn"
+    },
+    {
+        "id": 45,
+        "frase": "Os campeões continuam jogando até acertar.",
+        "autor": "Billie Jean King"
+    },
+    {
+        "id": 46,
+        "frase": "O sucesso é resultado de preparação, trabalho duro e aprender com os erros.",
+        "autor": "Michael Jordan"
+    },
+    {
+        "id": 47,
+        "frase": "Você não pode colocar limites em nada. Quanto mais você sonha, mais longe você chega.",
+        "autor": "Michael Phelps"
+    },
+    {
+        "id": 48,
+        "frase": "Sonhar grande dá o mesmo trabalho que sonhar pequeno.",
+        "autor": "Jorge Paulo Lemann"
+    },
+    {
+        "id": 49,
+        "frase": "Acredite em si mesmo e em tudo que você é.",
+        "autor": "Christian Larson"
+    },
+    {
+        "id": 50,
+        "frase": "O corpo alcança o que a mente acredita.",
+        "autor": "Usain Bolt"
+    },
+    {
+        "id": 51,
+        "frase": "A vitória pertence ao mais perseverante.",
+        "autor": "Napoleão Bonaparte"
+    },
+    {
+        "id": 52,
+        "frase": "Se você não pode voar, corra. Se não puder correr, ande. Mas continue em frente.",
+        "autor": "Martin Luther King Jr."
+    },
+    {
+        "id": 53,
+        "frase": "Quanto mais difícil a batalha, mais doce é a vitória.",
+        "autor": "Les Brown"
+    },
+    {
+        "id": 54,
+        "frase": "Talento vence jogos, mas trabalho em equipe e inteligência vencem campeonatos.",
+        "autor": "Michael Jordan"
+    },
+    {
+        "id": 55,
+        "frase": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 56,
+        "frase": "A persistência realiza o impossível.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 57,
+        "frase": "Cada dia é uma nova oportunidade para recomeçar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 58,
+        "frase": "Transforme seus obstáculos em oportunidades.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 59,
+        "frase": "O único lugar onde o sucesso vem antes do trabalho é no dicionário.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 60,
+        "frase": "Não espere por oportunidades extraordinárias. Aproveite as oportunidades comuns e torne-as grandiosas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 61,
+        "frase": "A diferença entre quem você é e quem você quer ser é o que você faz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 62,
+        "frase": "Treine enquanto eles dormem, trabalhe enquanto eles descansam, persista enquanto eles desistem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 63,
+        "frase": "Cada manhã é uma nova chance de recomeçar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 64,
+        "frase": "Hoje é a oportunidade de ser melhor do que ontem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 65,
+        "frase": "A dor que você sente hoje será a força de amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 66,
+        "frase": "Sonhe grande, comece pequeno, continue avançando.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 67,
+        "frase": "Não espere por motivação — crie o hábito.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 68,
+        "frase": "Faça mais do que o esperado e o inesperado virá.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 69,
+        "frase": "Seja persistente — as grandes conquistas exigem tempo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 70,
+        "frase": "Coragem não é ausência de medo, é persistir apesar dele.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 71,
+        "frase": "Acorde com propósito e vá dormir com satisfação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 72,
+        "frase": "O sucesso começa com a decisão de tentar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 73,
+        "frase": "Foque no progresso, não na perfeição.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 74,
+        "frase": "A consistência é mais poderosa que a intensidade ocasional.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 75,
+        "frase": "Aja hoje pelo futuro que você deseja amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 76,
+        "frase": "Quem planta rotina, colhe resultados.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 77,
+        "frase": "O único limite é aquele que você aceita.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 78,
+        "frase": "Treine sua mente tanto quanto seu corpo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 79,
+        "frase": "A excelência é feita de hábitos repetidos todos os dias.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 80,
+        "frase": "Levante cedo. Trabalhe. Repita.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 81,
+        "frase": "Persistência: continue colocando um pé na frente do outro.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 82,
+        "frase": "A mente vence onde o talento não é suficiente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 83,
+        "frase": "Conquiste suas manhãs e você conquistará seu dia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 84,
+        "frase": "O desconforto de hoje é a força de amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 85,
+        "frase": "Você é mais forte que a sua melhor desculpa.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 86,
+        "frase": "Resultados exigem sacrifício; escolha o que vale mais.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 87,
+        "frase": "A atitude certa transforma paredes em portas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 88,
+        "frase": "Acredite no processo e não apenas nos resultados.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 89,
+        "frase": "A melhor maneira de prever o futuro é criá-lo hoje.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 90,
+        "frase": "Não espere por condições perfeitas — crie-as.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 91,
+        "frase": "Você não precisa ser o melhor, só precisa ser melhor que ontem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 92,
+        "frase": "A disciplina faz do impossível uma rotina.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 93,
+        "frase": "A energia que você coloca na manhã define o tom do dia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 94,
+        "frase": "Vença a preguiça pela primeira hora do dia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 95,
+        "frase": "Seja obstinado em seus objetivos e flexível nos métodos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 96,
+        "frase": "A ação é a cura para o medo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 97,
+        "frase": "O esforço de hoje é a medalha de amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 98,
+        "frase": "Invista nas pequenas vitórias diárias.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 99,
+        "frase": "A mente programada para vencer ignora as desculpas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 100,
+        "frase": "Aja como se fosse impossível fracassar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 101,
+        "frase": "Cada amanhecer é um novo capítulo — escreva algo bom.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 102,
+        "frase": "Desafie-se hoje para agradecer-se amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 103,
+        "frase": "Seja a razão pela qual alguém acredita que vale a pena tentar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 104,
+        "frase": "A preparação de hoje define a performance de amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 105,
+        "frase": "As metas são sonhos com prazos e ação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 106,
+        "frase": "A manhã pertence a quem se levanta com intenção.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 107,
+        "frase": "Mude seus hábitos, mude sua vida.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 108,
+        "frase": "Seja forte o suficiente para começar de novo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 109,
+        "frase": "A vitória começa antes mesmo da competição — na preparação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 110,
+        "frase": "Transforme medo em combustível, não em freio.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 111,
+        "frase": "Grandeza é prática constante, não talento ocasional.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 112,
+        "frase": "A mente focada faz o impossível parecer rotina.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 113,
+        "frase": "Os hábitos que você forma hoje serão seus hábitos amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 114,
+        "frase": "A coragem aparece quando você decide agir mesmo assustado.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 115,
+        "frase": "Progresso exige paciência e persistência.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 116,
+        "frase": "A força de vontade é um músculo — treine-o diariamente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 117,
+        "frase": "Quando você pensa em desistir, lembre-se do porquê começou.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 118,
+        "frase": "O sucesso ama a velocidade executiva: planejar menos, agir mais.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 119,
+        "frase": "Não existe atalho para qualquer lugar que valha a pena chegar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 120,
+        "frase": "Seja disciplinado nas pequenas coisas; as grandes virão.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 121,
+        "frase": "A consistência transforma tentativas em conquistas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 122,
+        "frase": "Metas sem ação são apenas desejos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 123,
+        "frase": "O esforço real acontece quando ninguém está olhando.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 124,
+        "frase": "A paixão te impulsiona; a disciplina te mantém no caminho.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 125,
+        "frase": "Foque em melhorar 1% a cada dia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 126,
+        "frase": "A resiliência transforma quedas em saltos mais altos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 127,
+        "frase": "A manhã é um presente — use-o com sabedoria.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 128,
+        "frase": "Vença o hábito de adiar; comece agora.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 129,
+        "frase": "O sacrifício temporário garante orgulho permanente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 130,
+        "frase": "Pequenas vitórias diárias constroem grandes legados.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 131,
+        "frase": "Treine sua atitude tanto quanto seus músculos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 132,
+        "frase": "A perseverança é o diferencial dos grandes.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 133,
+        "frase": "Transforme seu cansaço em combustível para melhorar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 134,
+        "frase": "Você não falha até que pare de tentar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 135,
+        "frase": "A verdadeira competição é contra a versão antiga de você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 136,
+        "frase": "Persistir gera confiança; confiança gera resultados.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 137,
+        "frase": "Trabalhe em silêncio e deixe o sucesso fazer barulho.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 138,
+        "frase": "O conforto é o inimigo do progresso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 139,
+        "frase": "Acreditar é o primeiro passo; agir é o próximo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 140,
+        "frase": "A manhã bem usada paga dividendos o dia todo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 141,
+        "frase": "Construa hábitos que suportem seus sonhos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 142,
+        "frase": "Você se arrependerá mais do que não tentou do que de ter tentado.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 143,
+        "frase": "A consistência vence talentosos que não persistem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 144,
+        "frase": "Treine sua paciência — as melhores coisas levam tempo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 145,
+        "frase": "A atitude certa transforma esforços em conquistas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 146,
+        "frase": "Comece onde você está. Use o que tem. Faça o que puder.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 147,
+        "frase": "Acorde com determinação; vá dormir com satisfação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 148,
+        "frase": "Você tem que acordar cada manhã com determinação se pretende ir para a cama com satisfação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 149,
+        "frase": "Toda manhã você ganha uma nova chance para recomeçar e tentar viver diferente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 150,
+        "frase": "Levante da cama e deixe a preguiça com os lençóis. Só assim você vencerá esse dia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 151,
+        "frase": "A persistência é o caminho do êxito.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 152,
+        "frase": "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo, fará coisas admiráveis.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 153,
+        "frase": "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 154,
+        "frase": "A coragem não é ausência do medo; é a persistência apesar do medo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 155,
+        "frase": "Não reze por uma vida fácil, reze por forças para suportar uma difícil.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 156,
+        "frase": "O sucesso tem uma estranha capacidade de esconder o erro.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 157,
+        "frase": "Você pode encontrar muitas derrotas, mas você não pode se deixar derrotar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 158,
+        "frase": "O que não provoca minha morte faz com que eu fique mais forte.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 159,
+        "frase": "Creia em si, mas não duvide sempre dos outros.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 160,
+        "frase": "Estar decidido, acima de qualquer coisa, é o segredo do êxito.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 161,
+        "frase": "Você precisa fazer aquilo que pensa que não é capaz de fazer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 162,
+        "frase": "A superação das dificuldades é a prova que forma o caráter.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 163,
+        "frase": "Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 164,
+        "frase": "Não é possível ser bom pela metade.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 165,
+        "frase": "As pessoas não carecem de força, carecem de determinação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 166,
+        "frase": "O sonho é um esboço, motivação a estrutura, a persistência é a realidade.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 167,
+        "frase": "Treinamento não é nada! Vontade é tudo... vontade é agir!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 168,
+        "frase": "Todo dia eu peço a Deus\nsaúde pra trabalhar,\nque me dê sabedoria\ne coragem pra lutar\ne que eu perceba, sim, \nque só vem até a mim\naquilo que eu for buscar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 169,
+        "frase": "Sonhe, lute e conquiste. Você nasceu pra vencer!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 170,
+        "frase": "Eu faço a minha sorte!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 171,
+        "frase": "Os indecisos pensam, os fracos desistem, mas os fortes continuam até conquistar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 172,
+        "frase": "Procrastinar é uma triste forma de permitir que outros conquistem os sonhos que são seus.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 173,
+        "frase": "Sucesso é um ponto de vista.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 174,
+        "frase": "Você pode reconstruir tudo de novo, pode recomeçar. Pode reconquistar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 175,
+        "frase": "⁠Não espere reciprocidade. Faça, porque é um dever seu.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 176,
+        "frase": "A vida não é fácil para nenhum de nós. Temos que ter persistência e, acima de tudo, confiança em nós mesmos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 177,
+        "frase": "Se não deu certo hoje, amanhã eu acordo mais cedo, preparo meu mate e tento de novo!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 178,
+        "frase": "Pedras no caminho? Eu guardo todas. Um dia vou construir um castelo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 179,
+        "frase": "Se A é o sucesso, então A é igual a X mais Y mais Z. O trabalho é X; Y é o lazer; e Z é manter a boca fechada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 180,
+        "frase": "Na vida, não existem soluções. Existem forças em marcha: é preciso criá-las e, então, a elas seguem-se as soluções.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 181,
+        "frase": "Não há sucesso sem ação. Não tem ação sem desejo. O desejo movido pela persistência e pelo aprendizado dos erros.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 182,
+        "frase": "Quero, preciso, desejo, necessito, almejo, são apenas pensamentos dos sonhadores. Busque, continue, lute e conquiste, são as ações dos vencedores. Deixei de ser apenas um sonhador, para me tornar um vencedor.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 183,
+        "frase": "A coragem e a determinação constituem a força motivadora do desenvolvimento.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 184,
+        "frase": "“O  estímulo, o apoio, o incentivo, a motivação, o reforço e o investimento são indispensáveis aos trabalhos e aos estudos.”",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 185,
+        "frase": "\"⁠Podemos sim enganar o nosso cérebro dando sugestões positivas mesmo diante do caos. Isso requer muita força de vontade. Fácil? Claro que não, todos nós ao sentir dor, queremos sofrer e ser acalentados, mas o mundo não pára diante do nosso sofrimento.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 186,
+        "frase": "Levanto os meus olhos para os montes e pergunto: De onde me vem o socorro?\nO meu socorro vem do Senhor, que fez os céus e a terra.\nEle não permitirá que você tropece; o seu protetor se manterá alerta,\nsim, o protetor de Israel não dormirá, ele está sempre alerta!\n\nSalmos 121:1-4",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 187,
+        "frase": "Eu sabia que a vida nunca era tão fácil, que em vez de as portas serem abertas a você, você precisava pular cercas para chegar a algum lugar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 188,
+        "frase": "Conquiste a confiança através de seus feitos e evite contestações sobre seus atos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 189,
+        "frase": "Eu tenho sucesso hoje porque tive um amigo que acreditou em mim e eu não tive coragem de decepcioná-lo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 190,
+        "frase": "⁠Seja fiel à sua determinação! Tenha disciplina em alguma área da sua vida cotidiana, pois será aí que você encontrará a saída! A disciplina irá te reerguer sempre, mesmo nos dias que você acordar desmotivado! Motivação nem sempre você terá, mas a disciplina será um vício!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 191,
+        "frase": "Nem toda grandeza de Golias foi párea para a autoconfiança de Davi, acredite em si mesmo, vença seus próprios medos e derrote os gigantes que tentarem atrapalhar tua trajetória.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 192,
+        "frase": "Acredite em si próprio e chegará um dia em que seu esforço será motivação aos desacreditados.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 193,
+        "frase": "Descobri que cada desafio que encontrei e cada medo que enfrentei me aproximaram do lugar ao qual pertenço.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 194,
+        "frase": "5 chaves para o sucesso em uma palavra! \n1 - Organização \n2 - Priorização \n3 - Determinação \n4 - Motivação \n5 - Inspiração \nTodas elas com a mesma sufixação, pois a ação não é se não a direção!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 195,
+        "frase": "Não importa o que seja, não há nada que não possa ser feito. Se existe determinação, podemos mover o céu e a terra de acordo com nossos desejos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 196,
+        "frase": "O leão dentro de mim, reconhece o leão dentro de você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 197,
+        "frase": "⁠\"A determinação e a persistência são as chaves para alcançar seus objetivos. Mantenha-se motivado e siga em frente, um passo de cada vez.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 198,
+        "frase": "Você não é o dinheiro que tem, você não é o seu diploma, seu currículo, nem o carro da sua garagem. Você é o sorriso que entrega, a mão que estende, o abraço que dá. Você é o amor que espalha.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 199,
+        "frase": "⁠\"Nada é por acaso, certamente você já está cansado de ouvir isso, mas será que já se deu conta da grandeza do que está vivendo neste exato momento? Observe!\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 200,
+        "frase": "⁠Que o Universo possa conspirar para o bem dos que buscam, por meio do trabalho, crescer e prosperar! Assim seja!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 201,
+        "frase": "\"⁠Quando estamos submergidos no nosso microcosmos sem parar, só ganhamos mais problemas. Olhe ao redor.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 202,
+        "frase": "⁠Dicas para o sucesso:\nExercite o cérebro diariamente;\nMova-se em busca dos seus ideais;\nEsteja com pessoas positivas;\nAlimente-se com alegria;\nViva momentos de plenitude;\nAbrace, beije, faça e receba carinho;\nAme-se em primeiro lugar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 203,
+        "frase": "\"⁠Finja estar feliz, finja estar equilibrado, finja que tudo deu certo, que o cérebro ao perceber isso, passará a acreditar.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 204,
+        "frase": "A procrastinação é uma forma de fracasso. Parta para a ação já! Enfrente os desafios e conquiste seus resultados.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 205,
+        "frase": "O segredo da vida é você justamente juntar toda a sua coragem e fazer aquilo que achou que teria medo demais para fazer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 206,
+        "frase": "⁠Quando o medo nos paralisa ficamos estacionado na vida e não seguimos em frente.\nCORAGEM!\nDirija sua vida com oração para espantar os medos.\nDeus está contigo nesse caminho.\nSIGA!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 207,
+        "frase": "⁠ \"Nunca desista de lutar, pois as maiores vitórias são alcançadas por aqueles que continuam a lutar, mesmo quando tudo parece perdido.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 208,
+        "frase": "⁠🚀 Com determinação e persistência, construímos pontes sobre os abismos da dúvida. 🌉",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 209,
+        "frase": "⁠Persistência e determinação são as chaves para alavancar sua vida financeira e alcançar o sucesso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 210,
+        "frase": "⁠A persistência sem resiliência é como um mar revolto sem correntezas...",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 211,
+        "frase": "Nos dias bons eu me esforço, nos dias ruins eu me esforço mais ainda.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 212,
+        "frase": "⁠Para ter sucesso, é necessário viver o processo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 213,
+        "frase": "⁠Comece assim mesmo! Não espere a coragem chegar ela te encontra no caminho.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 214,
+        "frase": "Não preciso de muito para ser feliz, me der um lápis, borracha e um caderno que já serei eternamente feliz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 215,
+        "frase": "Às vezes só é necessário fechar os olhos, para que toda a escuridão suma.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 216,
+        "frase": "Estou neste mundo, para aprender com meus erros, superar provações e buscar o auto conhecimento com o objetivo de evoluir e me tornar um ser humano cada dia melhor. \nSe eu não buscar esta evolução espiritual, realmente a vida não faz sentido algum.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 217,
+        "frase": "Desafios são fases da superação, se encarada com disciplina e determinação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 218,
+        "frase": "⁠Seja grato por tudo que você viveu até aqui, gratidão deixa a vida mais leve, te torna uma pessoa mais nobre e feliz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 219,
+        "frase": "♡ ° ೋ ✿ ° Permita-se a alegria dos momentos , nos mais simples gestos de delicadezas que a vida te presenteia! ° ೋ ✿ ♡",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 220,
+        "frase": "° ೋ ❀ ° Há tanta beleza na magnitude da vida ... Ainda que poucos sejam os olhos que conseguem transpor as limitações e enxergar com a alma toda glória divina que nos cerca ! ° ೋ ❀ °",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 221,
+        "frase": "Mesmo que sua fé enfraqueça faça com que sua persistência prevaleça.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 222,
+        "frase": "⁠⁠A vida tem uma conexão imensurável, divinal. Aquilo porque lutamos todos os dias compõe uma parte irretocável da nossa essência.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 223,
+        "frase": "Momento de reflexão:\nIncentivo dado, decisão tomada com otimismo e motivação, mas nunca esqueça dê dar valor a tudo, até mesmo às pequenas vitórias.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 224,
+        "frase": "⁠\"Não desista dos seus sonhos, lute por eles com determinação e persistência, pois é nessa jornada que se encontra a verdadeira realização e sucesso.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 225,
+        "frase": "Todo sucesso nasce do querer, da determinação e persistência.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 226,
+        "frase": "⁠A vitória se aproxima quando a persistência e a determinação caminham lado a lado, guiadas pela justiça e pela honestidade.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 227,
+        "frase": "⁠INCENTIVO\n\nVou correr atrás do sonho,\nalcançar o objetivo,\ninsistir, perseverar,\ntambém ser mais proativo.\nNão preciso de empurrão\npara agir, sair do chão,\nsou meu próprio incentivo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 228,
+        "frase": "\"Não importa as dificuldades do seu caminho, o que você não pode é desistir dos seus objetivos\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 229,
+        "frase": "A coragem vem do desafio que antecede a mudança",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 230,
+        "frase": "Faça sua parte, tudo acontece no seu tempo. Talvez o seu tempo não chegou ainda! E não se esqueça, quando você muda, as pessoas mudam ao seu redor!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 231,
+        "frase": "Vamos desejar coisas boas para nós. A começar com uma boa noite de sono!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 232,
+        "frase": "Independentemente do que você quiser fazer, se o fizer com todo o seu coração, vai acontecer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 233,
+        "frase": "O conhecimento é uma sede insaciável, quanto mais bebemos, mais sede sentimos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 234,
+        "frase": "Enquanto você tiver saúde física e mental, estará imparável!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 235,
+        "frase": "Acreditar é o nome do primeiro degrau de uma escada chamada sucesso .\nCigano Romani",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 236,
+        "frase": "⁠Tudo é possível com a motivação adequada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 237,
+        "frase": "⁠\"Você consegue ir longe, comece usando a coragem, com o tempo vai adquirindo habilidades e meios, o importante é começar, a inércia é mais grave que os obstáculos.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 238,
+        "frase": "A fé de um mártir, a coragem de um aventureiro, a força de um guerreiro e a educação de um paladino. Com esses quatro conceitos um homem vai longe em suas realizações",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 239,
+        "frase": "⁠CORAGEM...\nPara começar o dia,\nDissipar os medos,\nequilibrar os passos,\nAumentar a fé.\nCoragem todo santo dia!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 240,
+        "frase": "Você não pode viver para sempre, mas com excesso de cautela pode nunca chegar a viver. Tenha coragem!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 241,
+        "frase": "Se você tiver coragem de seguir em frente mesmo quando tudo parecer perdido, e for capaz de levantar mesmo quando não tiver mais força, você é merecedor de conquistar qualquer coisa...",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 242,
+        "frase": "Se você não tem coragem de correr o risco de errar, você não tem coragem de ter sucesso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 243,
+        "frase": "⁠Progredir é persistir na luta e aceitar desafios com resiliência.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 244,
+        "frase": "⁠Não adianta sofrer por um sonho que não se busca.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 245,
+        "frase": "⁠A desistência de hoje pode ser o arrependimento do amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 246,
+        "frase": "⁠Independentemente de fracasso ou vitória, seja você o campeão.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 247,
+        "frase": "Fé é você persistir sempre e crer no resultado⁠.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 248,
+        "frase": "⁠⁠Ser extraordinário é nunca perder a fé. Quem persiste, alcança.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 249,
+        "frase": "⁠Se você está enfrentando dificuldades, saiba que cada desafio é uma oportunidade para crescer, aprender e se fortalecer. Acredite no processo, mantenha-se firme e siga em frente com determinação.\nMoabe Teles",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 250,
+        "frase": "⁠O impossível só existe até alguém provar o contrário. E esse alguém pode ser você.\nMoabe Teles",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 251,
+        "frase": "\"Suba a montanha. Conquiste a vista.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 252,
+        "frase": "Há pontes que só a determinação constroem, e há barreiras que só suas atitudes as podem derruba-las.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 253,
+        "frase": "Pare de seguir na direção errada, não repita os mesmos erros, tenha coragem e determinação, dando um novo rumo a sua vida, pois você nasceu para vencer, então coloques a caminho da vitória!⁠",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 254,
+        "frase": "Ponha motivação, música, determinação, fé, coragem e alegria em sua vida e você fará dez vezes mais atividades que nunca fez antes.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 255,
+        "frase": "⁠\"As dificuldades não batem na porta quando chegam, mas é com coragem e superação que transformamos cada obstáculo em um novo recomeço.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 256,
+        "frase": "⁠O que te impede não é a falta de oportunidades, é o medo de agir. Coragem muda tudo.\nMoabe Teles",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 257,
+        "frase": "⁠Se você está cansado de tanto tentar e não ver resultados, lembre-se: a persistência diferencia os que sonham dos que conquistam. Siga firme, sua vitória está mais perto do que imagina!\nMoabe Teles",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 258,
+        "frase": "NÃO POSITIVO\n\n“Alavanca a mente para a criatividade e persistência, para lutar e alcançar sonhos. Seus valores dependem de suas atitudes.”",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 259,
+        "frase": "\"Desafios são fases da superação, se encarada com disciplina e determinação.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 260,
+        "frase": "⁠É preciso ter coragem até para abrir mão e seguir em frente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 261,
+        "frase": "⁠Não tenha medo de sonhar grande! Ousadia, determinação e confiança serão seus melhores aliados nessa jornada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 262,
+        "frase": "Coragem é a capacidade de ter fé, persistência e força diante do medo, da dor e do estresse. Tenha fé hoje. Continue persistindo em direção aos seus sonhos, porque precisamos de você. O mundo precisa de mais pessoas com um coração corajoso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 263,
+        "frase": "⁠Nunca subestime o poder da persistência, da dedicação e da coragem em sua jornada rumo ao sucesso, o jogo sempre muda.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 264,
+        "frase": "\"A persistência é uma arma poderosa, mas poucos tem coragem de usá-la.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 265,
+        "frase": "Superação é uma \"super-ação\". Quanto mais dificuldades você enfrenta, mais gloriosas se tornam suas conquistas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 266,
+        "frase": "Vontade não é saudade e desejo não é amor, me corrija aí se não for, por favor",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 267,
+        "frase": "⁠Olhe-se no espelho da sua alma e veja quão linda é a imagem que lá se reflete",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 268,
+        "frase": "Não importa a força, nem o tamanho da tempestade, se for necessário continuar a caminhar, você terá que enfrentá-la.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 269,
+        "frase": "Sonhar é o ponto de partida para chegar ao sucesso. Todos sonham voar alto, mas somente conseguem aqueles que têm a coragem de sair do sonho e enfrentar a pressão que leva as alturas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 270,
+        "frase": "Motivacional\n⁠nao olhe as lutas\nOlhe as pontencia\nQue você tem força, coragem,e determinação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 271,
+        "frase": "Persistência é o combustível que nos mantém em movimento até que cheguemos ao destino planejado.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 272,
+        "frase": "\"Quando vem a tempestade, lute com Força, Determinação e Coragem.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 273,
+        "frase": "⁠Acredite em si mesmo e tenha coragem de perseguir seus sonhos, pois a sua determinação e esforço hoje são a garantia de um futuro brilhante amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 274,
+        "frase": "Medo é o maior obstáculo do seu sucesso, supere-o com coragem e determinação. Você é capaz!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 275,
+        "frase": "\" O pensamento é a origem de todas as coisas, alimente-o de coragem, fé e determinação, sucesso será o resultado.\" ⁠",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 276,
+        "frase": "Avançamos com coragem e determinação, pois somos mais fortes do que aqueles que tentam nos deter.\n⁠",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 277,
+        "frase": "Tenha a coragem de ser original em seus conceitos e opiniões, e a determinação de ser simplesmente você mesmo, e não mais uma mera cópia dos mesmos ecos mundanos.⁠",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 278,
+        "frase": "Sucesso significa ter a coragem, a determinação e a vontade de se tornar a pessoa que você acredita que deveria ser.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 279,
+        "frase": "A sorte sempre nos acompanha quando alinhamos atitude, determinação e coragem ao que queremos conquistar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 280,
+        "frase": "\"As melhores histórias são aquelas de força de vontade, coragem e determinação em meio as adversidades.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 281,
+        "frase": "⁠Com trabalho árduo, fé inabalável, perseverança incansável, coragem infindável e determinação inquebrantável, conquistaremos todos os nossos objetivos. Acredite no seu potencial e siga em frente com firmeza e esperança.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 282,
+        "frase": "Lute todas batalhas que puder vencer, mas jamais lute por lutar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 283,
+        "frase": "O tempo constrói e desconstrói qualquer convicção.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 284,
+        "frase": "Se você deixa o mal acontecer e não faz nada, com o intuito de preservar a paz, você não é pacífico, você é covarde!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 285,
+        "frase": "Não interessa o que você faz e, sim, como você faz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 286,
+        "frase": "Sucesso é conquistar aquilo que o dinheiro não pode comprar. Seja a sua melhor versão todos os dias.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 287,
+        "frase": "Nós gostamos de pensar em nossos campeões e ídolos como super-heróis que nasceram diferentes de nós. Não gostamos de pensar neles como pessoas relativamente comuns que se tornaram extraordinárias.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 288,
+        "frase": "A comodidade tende a desmotivar, entretanto, superar desafios fará com que o seu ego seja motivado a conquistar sem aflição.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 289,
+        "frase": "Como você se sentiria se já tivesse conquistado boa parte do que deseja? \n“Imagine e então sinta-se dessa forma!”",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 290,
+        "frase": "Acham que me conhecem só porque sabem meu nome.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 291,
+        "frase": "Que o frio seja apenas uma sensação térmica..\nQue ele não chegue aos nossos corações e nem congele nossos sonhos...\nQue ele fique sempre do lado de fora de nossas almas!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 292,
+        "frase": "Chegou no fundo do poço? Excelente notícia, a partir de agora qualquer movimento te leva para cima, desde que não seja cavar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 293,
+        "frase": "As dificuldades só servem para selecionar os vencedores e tornar as conquistas mais PRAZEROSAS.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 294,
+        "frase": "Nunca deixe ninguém atrapalhar os seus sonhos, principalmente você!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 295,
+        "frase": "• ೋ ✿ • ♡ • Um dia inteiro de alegrias e bençãos para gente !\nAinda que tenhamos inúmeras provações , com fé e confiança na sabedoria de Deus tudo torna-se superação ... aprendizado e assim nossa alma evolui , harmoniosamente em paz ! • ೋ ✿ • ♡ •",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 296,
+        "frase": "Quem valoriza o pouco que tem, vai além.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 297,
+        "frase": "Longe é a Lua e o homem chegou lá quando quis!⁠",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 298,
+        "frase": "Imagine seu cérebro formando novas conexões quando enfrenta um desafio e aprende. Vá em frente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 299,
+        "frase": "Eu nunca pensei que fosse chegar, porque sempre me disseram que era impossível.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 300,
+        "frase": "O processo é mais importante do que o final.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 301,
+        "frase": "A lição mais importante que aprendi é que não sou uma vítima, sou uma sobrevivente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 302,
+        "frase": "Quanto maior sua dedicação, menor a distância entre você e seus sonhos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 303,
+        "frase": "Emagrecer é muito mais que quilos a menos na balança.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 304,
+        "frase": "Como chegar a onde ninguém chegou,\nSendo igual a todo mundo!?",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 305,
+        "frase": "Um bom soldado precisa apenas de duas coisas: Uma boa arma e uma boa razão.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 306,
+        "frase": "Viver bem é de graça.\nAproveite sua jornada, ela passa depressa.\n⁠",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 307,
+        "frase": "⁠Se não quer que a vida pegue pesado com você, pegue pesado com a vida. 💪🏻⚡",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 308,
+        "frase": "Para vencer na vida você precisa compartilhar seus sonhos, metas e objetivos. Você precisa de gente ao seu lado.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 309,
+        "frase": "⁠Não fuja dos seus cagaços.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 310,
+        "frase": "⁠Acredite em si mesma e permita que seus milagres sejam tecidos pela sua própria determinação e coragem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 311,
+        "frase": "⁠Se você acreditar, você pode alcançar.\nSim, não é sobre a sua condição, é sobre sua determinação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 312,
+        "frase": "⁠A fé te faz acreditar, a determinação te faz conquistar. É assim que sonhos, saem do papel.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 313,
+        "frase": "⁠Que o seu maior motivador seja a iniciativa e não o incentivo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 314,
+        "frase": "⁠\"Não há incentivo financeiro capaz de entusiasmar aquele que não possui motivação\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 315,
+        "frase": "⁠Não cabe às outras pessoas manter você motivado. Cabe a você. O incentivo deve vir de dentro.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 316,
+        "frase": "Motivação é o estímulo que se tem para realizar algo e o incentivo que se tem para ter interesse no que se vai fazer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 317,
+        "frase": "⁠A preocupação deprime a pessoa, mas uma palavra de incentivo a anima.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 318,
+        "frase": "Incentivo de todos os lados, são os propulsores da minha escrita.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 319,
+        "frase": "A falta de orientações e de incentivo conduz as pessoas às margens de suas capacidades.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 320,
+        "frase": "⁠\"As palavras têm poder! Muitas vezes, uma mensagem positiva ou uma palavra de incentivo pode melhorar muito o dia de uma pessoa.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 321,
+        "frase": "Acreditar que o incentivo ao uso de bicicletas se dá pela construção de ciclovias, é no mínimo ingênuo, se não demagógico. Comece tendo um competente setor de mobilidade urbana e de infraestrutura, que terá os resultados que se espera, até mesmo sem criar ciclovia alguma.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 322,
+        "frase": "⁠O incentivo que você tanto aguarda não virá,seja sua própria inspiração, aquela energia positiva contagiante, a luzque todos esperam.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 323,
+        "frase": "Não fique triste quando há certas pessoas querendo o mau para você, use isso como incentivo e mostre sua verdadeira força vencendo as suas barreiras e mostrando que você é um verdadeiro vencedor.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 324,
+        "frase": "⁠Se me dissessem que é impossível, eu agradeceria pelo incentivo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 325,
+        "frase": "⁠O comportamento de uma pessoa não pode determinar a tua felicidade",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 326,
+        "frase": "⁠Para tudo na vida, ter apenas vontade não basta, tem que ter atitude e muita coragem!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 327,
+        "frase": "Uma vez um certo alguém chegou em mim e me perguntou quais os tipos de pessoas que me encantam, e eu respondi; “Aquelas que não desistem de mim.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 328,
+        "frase": "Quem viaja na aula, não viaja nas férias.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 329,
+        "frase": "Viva a vida como se fosse o último dia da sua vida. Aproveite o presente, o passado passou, o futuro é o destino que pertence a DEUS!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 330,
+        "frase": "Ter amigos é muito importante, valorize a família ela nunca te abandonará.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 331,
+        "frase": "E a culpa? A culpa é da vida que tem inicio, meio e fim. A nossa culpa está apenas em amar tanto e sentir tanto perder alguém.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 332,
+        "frase": "⁠\"Superar desafios é algo natural para quem não se deixa sucumbir pelas dificuldades encontradas no caminho.\nDe quem se entrega com paixão à grande aventura da vida, navegando por todos os mares com o melhor de si.\nVencer não é nunca ter perdas, vencer é jamais desistir.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 333,
+        "frase": "NESSE MUNDO QUE DEUS CRIOU É ASSIM:\n\"Não é o MAIS FORTE, nem o MAIS RICO e nem o MAIS INTELIGENTE da espécie que sobrevive no MUNDO e, sim AQUELE que se MELHOR ADAPTA AS MUDANÇAS\"\n\n\"Viva Vida\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 334,
+        "frase": "Você vive reclamando que só escolhe pessoas erradas? \nPois eu vou te dizer porque: o queé errado seduz, provoca e é mais prazeroso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 335,
+        "frase": "Para se construir leva-se uma vida inteira, para se destruir apenas um dia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 336,
+        "frase": "Tempo é o maior valor que um homem pode gastar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 337,
+        "frase": "Tempo é igual dinheiro, não é por ter bastante que se deve desperdiçar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 338,
+        "frase": "Que os anjos Te façam sonhar E acreditar \nQue é maravilhoso Viver, Fazer o bem,\nAmar, Sorrir e Até chorar...Para depois,\nO pranto acalmar, E novamente Perceber\nO quanto é maravilhoso Viver",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 339,
+        "frase": "⁠\"Não espere que as oportunidades batam à sua porta, vá lá fora e crie as suas próprias.\nAcredite no seu potencial, persista com determinação e conquiste seus sonhos.\nVocê é capaz!\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 340,
+        "frase": "⁠Nunca é tarde para recomeçar! A vida não espera por quem se prende à inércia. Levante-se, supere o medo e avance, pois a vitória pertence a quem decide agir.\nMoabe Teles",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 341,
+        "frase": "⁠\"Lute com todas as suas forças por aquilo que você acredita, porque esse é o caminho para conquistá-las.\nReveja porém antes, e ao menos por um instante, o significado de alcançá-las, porquanto não há sentido em reter o mundo perdendo a alma.\"",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 342,
+        "frase": "⁠Poder é uma questão de Estratégia e Atitude.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 343,
+        "frase": "⁠O diferencial está no detalhe",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 344,
+        "frase": "⁠Eu posso esperar o momento certo e ele pode não aparecer, ou eu posso parar de perder tempo e\ncriá-lo",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 345,
+        "frase": "Pra que voar beirando o chão se você tem asas que podem te levar até as estrelas.\n⁠",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 346,
+        "frase": "⁠O sucesso não é obra do acaso, mas do esforço diário. Dê o seu melhor hoje e confie que Deus guiará seus passos!\nMoabe Teles",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 347,
+        "frase": "Acreditar é a chama que mantém a jornada viva.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 348,
+        "frase": "⁠Persista por seus sonhos, alcance-os com resiliência, mas não esqueça do porquê começou.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 349,
+        "frase": "⁠O foco é a ponte entre o desejo e a realização; quem aprende a direcionar sua energia naquilo que realmente importa transforma sonhos em conquistas.\nMoabe Teles",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 350,
+        "frase": "⁠Enquanto uns duvidam, outros fazem acontecer. Escolha de que lado da história você quer estar.\nMoabe Teles",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 351,
+        "frase": "Tudo consegue aquele que persiste",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 352,
+        "frase": "Nunca devemos subestimar a capacidade de ninguém. Pois até mesmo uma frágil plantinha com força de vontade, depois de muita persistência alcança os seus objetivos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 353,
+        "frase": "Persistente é o teimoso que obteve sucesso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 354,
+        "frase": "⁠Se fosse fácil, qualquer um conseguiria; é a dificuldade que transforma cada conquista em algo verdadeiramente incrível.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 355,
+        "frase": "Não importam as dificuldades que apareçam em meu caminho. Escolho sempre superar, porque VIVER VALE A PENA",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 356,
+        "frase": "Um firme propósito pode alimentar um físico frágil.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 357,
+        "frase": "O sorriso é uma chama, que fornece alegria e superação que não pode ser apagada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 358,
+        "frase": "A superação aumentará a sua capacidade.⁠",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 359,
+        "frase": "A dor não é o caminho do sofrimento da alma, a dor é o caminho de superação dos próprios limites. ⁠",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 360,
+        "frase": "Não importa o que você decidiu, o que importa é que isso te faça feliz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 361,
+        "frase": "Todos os dias você se supera de alguma forma e isso já é o suficiente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 362,
+        "frase": "Algumas vezes, coisas ruins acontecem em nossas vidas para nos colocar na direção das melhores coisas que poderíamos viver.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 363,
+        "frase": "Se a caminhada está difícil, é porque você está no caminho certo. Não desista até conquistar aquilo que você merece!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 364,
+        "frase": "Não tenha medo de mudar, tenha medo de daqui um ano estar reclamando dos mesmos problemas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 365,
+        "frase": "Você é mais corajoso do que pensa, mais forte do que parece e mais esperto do que acredita.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 366,
+        "frase": "Não é sobre quantas vezes você foi rejeitado, caiu e teve que levantar. É sobre quantas vezes você fica em pé, levanta a cabeça e segue em frente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 367,
+        "frase": "Quando algo ruim acontece, você tem três escolhas: deixar isso definir você, deixar isso destruir você ou fazer isso te deixar mais forte.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 368,
+        "frase": "Erros são provas de que você está tentando. Não desista!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 369,
+        "frase": "Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite, lute e conquiste tudo que puder!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 370,
+        "frase": "Valorize as pequenas vitórias, o sucesso é a soma de pequenos esforços.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 371,
+        "frase": "O sucesso não vem daquilo que você faz ocasionalmente. Ele vem do que você faz consistentemente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 372,
+        "frase": "Não espere incentivo dos outros. O primeiro a acreditar no seu sonho tem que ser você!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 373,
+        "frase": "Toda conquista começa com a decisão de tentar mais uma vez.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 374,
+        "frase": "Todo esforço tem a sua recompensa.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 375,
+        "frase": "Esforça-te, porque é você por você mesmo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 376,
+        "frase": "Se não puder fazer tudo, faça tudo que puder.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 377,
+        "frase": "Se um dia a razão te pedir para desistir e o coração te mandar lutar, lute! Pois não é a razão que bate pra você viver e sim o coração.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 378,
+        "frase": "Eu não sou o que me aconteceu. Eu sou o que escolho me tornar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 379,
+        "frase": "Tudo o que precisamos são de 20 segundos de coragem insana.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 380,
+        "frase": "Esqueça os piores momentos da sua vida e faça os melhores se tornarem inesquecíveis.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 381,
+        "frase": "A mudança que você quer está na decisão que você toma.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 382,
+        "frase": "Quem não luta por alguma coisa, paralisa por qualquer coisa. Quem tem um motivo forte, não desiste por qualquer razão.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 383,
+        "frase": "Seja seu foco. Faça as coisas por você, não pelos outros.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 384,
+        "frase": "O segredo de progredir é começar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 385,
+        "frase": "Arrisque, tente, permita-se, mostre para si mesmo do que é capaz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 386,
+        "frase": "Em vez de reclamar da vida, levante a cabeça, sacuda a poeira e dê a volta por cima. Afinal, dias ruins são necessários para que os bons valham a pena!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 387,
+        "frase": "A determinação de hoje é o sucesso de amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 388,
+        "frase": "Na vida, vence quem menos se ilude. Portanto, durma com vontades, mas acorde com atitudes.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 389,
+        "frase": "Para aqueles que estão determinados a voar, não ter asas é apenas um detalhe.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 390,
+        "frase": "Seu futuro é criado pelo que você faz hoje, não amanhã. Comece agora!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 391,
+        "frase": "Não vais ter sempre motivação, aprenda a ter disciplina.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 392,
+        "frase": "Quando você se concentra na dor, você sofre. Quando você se concentra na lição, você evolui.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 393,
+        "frase": "Persista! Se tudo fosse fácil, qualquer um conseguiria.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 394,
+        "frase": "Todo ciclo que se encerra abre espaço para coisas ainda melhores acontecerem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 395,
+        "frase": "Não tenha medo de errar, até porque esse é o princípio do acerto.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 396,
+        "frase": "Onde há vontade, há chance de dar certo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 397,
+        "frase": "Se você realmente quer que aconteça, vá atrás e não desista.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 398,
+        "frase": "O que for para ser, Deus proverá no tempo certo!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 399,
+        "frase": "Quando passamos a acreditar e confiar em nós mesmos, tudo muda.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 400,
+        "frase": "Acredite nos seus sonhos, na sua força, no seu potencial, você pode tudo só não pode desistir.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 401,
+        "frase": "Quando não souber o que fazer, dê uma pausa, feche os olhos, respire um pouco. Às vezes, a resposta que você precisa pulsa no seu coração.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 402,
+        "frase": "Feliz é aquele que não sabota o caminho alheio. Vive bem, quem vive honestamente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 403,
+        "frase": "Nem todos que tentam conseguem, mas todos que conseguiram um dia tentaram.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 404,
+        "frase": "E se faltar a alegria, lembre-se: amanhã é um novo dia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 405,
+        "frase": "É tempo de fazer acontecer! Dê o seu melhor diante de todas as circunstâncias.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 406,
+        "frase": "Deixe as suas esperanças e não as suas dores moldarem o seu futuro.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 407,
+        "frase": "Todos os dias faça algo que o deixe mais próximo de um futuro melhor.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 408,
+        "frase": "Minha disputa é comigo mesmo, ser melhor que antes e não melhor que ninguém.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 409,
+        "frase": "Eu vou fazer o impossível acontecer... Eu sou capaz disso!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 410,
+        "frase": "Existe um mundo mágico fora da sua zona de conforto.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 411,
+        "frase": "Para chegar ao castelo, você precisa nadar pelo fosso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 412,
+        "frase": "Faça uma tentativa de se conhecer fora da sua zona de conforto e você verá como você é incrível.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 413,
+        "frase": "Na vida você tem duas escolhas: esperar acontecer ou fazer com que aconteça.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 414,
+        "frase": "Não abra mão do que você acredita só porque alguém acha que não vale a pena.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 415,
+        "frase": "Se te acrescenta, tenta!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 416,
+        "frase": "Às vezes você precisa chegar ao fundo do poço para enxergar o que está no topo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 417,
+        "frase": "Aproveite: seu tempo é agora! Não deixe nada para depois.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 418,
+        "frase": "Começar é o primeiro passo. Não desistir é o segundo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 419,
+        "frase": "Um dia a gente aprende, no outro a gente ensina.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 420,
+        "frase": "Você é da forma que se enxerga, então... Se enxergue GRANDE!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 421,
+        "frase": "Não se desespere, nem pare de sonhar. Desistir dos seus planos não vale a pena!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 422,
+        "frase": "Seja o motivo da motivação de alguém, mas antes seja a sua própria inspiração.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 423,
+        "frase": "Se você quer vencer, não fique olhando a escada. Comece a subir degrau por degrau!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 424,
+        "frase": "Trabalhe duro e em silêncio, deixe que o seu sucesso faça barulho.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 425,
+        "frase": "Reclame menos, acredite mais nas possibilidades e no que é capaz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 426,
+        "frase": "A verdadeira motivação não é aquilo que te anima, mas aquilo que te transforma.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 427,
+        "frase": "Não se envergonhe de seus fracassos, aprenda com eles e comece novamente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 428,
+        "frase": "Pode não parecer fácil, mas valerá a pena.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 429,
+        "frase": "Se esforce sempre mais, porque o bom pode ser ainda melhor.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 430,
+        "frase": "Ninguém tem o poder de te colocar para baixo, a não ser que você permita.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 431,
+        "frase": "Que suas vontades, sonhos e pensamentos não deixem de brilhar por nada e nem por ninguém.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 432,
+        "frase": "Querer vencer significa já ter percorrido metade do caminho.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 433,
+        "frase": "Eu faço da dificuldade a minha motivação!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 434,
+        "frase": "Que comece agora! E que seja permanente essa vontade de ir além daquilo que me espera.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 435,
+        "frase": "Calma, confie em Deus! Momentos ruins também chegam ao fim.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 436,
+        "frase": "Mudar não é fácil, mas quando você nota os resultados, nada te faz parar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 437,
+        "frase": "Só encontra a derrota aquele que deixa de sonhar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 438,
+        "frase": "Não desista nas primeiras tentativas, a persistência é amiga da conquista.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 439,
+        "frase": "Se você melhorar 1% por dia, em um ano você terá melhorado 365%.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 440,
+        "frase": "Se você nasceu com a fraqueza para cair, você nasceu com a força para levantar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 441,
+        "frase": "Assim como uma vírgula muda uma frase, uma simples atitude muda uma história.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 442,
+        "frase": "Não se preocupe! O mundo, além de pequeno, dá voltas... O que hoje não está ao seu alcance, amanhã Deus poderá colocar ao seus pés.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 443,
+        "frase": "Se for difícil, eu faço. Se for impossível, me dá mais 5 minutos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 444,
+        "frase": "Pare de perder tempo com aquilo que não te agrega em nada. Busque forças e alcance seus objetivos!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 445,
+        "frase": "Amanhã é outro dia... Aprendi isso ontem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 446,
+        "frase": "Caiu em si? Acredite que esse será o seu melhor tombo na vida!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 447,
+        "frase": "Acredite em você! Você é capaz, vai dar tudo certo, você tem tudo para ser feliz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 448,
+        "frase": "Se você quer ser grande, pare de pensar pequeno.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 449,
+        "frase": "Nunca é tarde para começar. Sucesso não tem idade.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 450,
+        "frase": "Recomeçar a cada nascer do sol e ao final de cada dia ter orgulho de si mesmo!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 451,
+        "frase": "É proibido desistir! Respira fundo e continua.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 452,
+        "frase": "Não basta DESEJAR uma vida melhor... Você deve CRIÁ-LA!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 453,
+        "frase": "Quanto mais cedo acreditar em si mesmo, mais cedo verás os resultados.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 454,
+        "frase": "Seja paciente com seus processos. Nem sempre poderemos realizar o que queremos no nosso tempo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 455,
+        "frase": "Mude a sua forma de ver as coisas que as coisas mudam.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 456,
+        "frase": "Não é toda porta fechada que está trancada. Empurre e teste!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 457,
+        "frase": "Hoje é uma ocasião especial. Você está vivo (e tem muita gente lutando por isso).",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 458,
+        "frase": "Se queremos progredir, não devemos repetir a história, mas escrever um novo capítulo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 459,
+        "frase": "Todo dia cabe um recomeço.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 460,
+        "frase": "Não é porque o céu está nublado que as estrelas morreram.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 461,
+        "frase": "Imagine uma nova história para sua vida e acredite nela.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 462,
+        "frase": "O melhor lugar do mundo é aqui e agora.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 463,
+        "frase": "Se hoje não foi possível, calma: amanhã será um dia melhor!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 464,
+        "frase": "Enxergar o lado bom das coisas é uma escolha.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 465,
+        "frase": "Acredite: tudo tem seu tempo e o seu está chegando.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 466,
+        "frase": "Você só vence amanhã se não desistir hoje!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 467,
+        "frase": "Nunca é perda de tempo se você conseguiu aprender algo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 468,
+        "frase": "Se você percebesse o quão poderosos são seus pensamentos, você nunca teria um pensamento negativo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 469,
+        "frase": "Quando você foca em você, você cresce. Quando você foca na dificuldade, a dificuldade cresce.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 470,
+        "frase": "Os dias ruins também te ensinam como crescer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 471,
+        "frase": "Não quero que o tempo volte, nem que as lembranças boas já vividas se repitam. Só quero novas histórias maiores e melhores!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 472,
+        "frase": "Nada é em vão, tudo vem para ensinar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 473,
+        "frase": "Tudo que vale a pena, leva tempo. O melhor está por vir!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 474,
+        "frase": "Algum dia vai dar certo, e se não for do jeito que a gente sonha, vai ser muito melhor.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 475,
+        "frase": "Você já não é mais a mesma pessoa de alguns meses atrás. Você está mais perto dos seus sonhos a cada segundo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 476,
+        "frase": "Não importa o peso de suas asas quando se quer mover o mundo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 477,
+        "frase": "Não é todo mundo que vai entender o seu caminho e está tudo bem! É o seu, não o deles.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 478,
+        "frase": "Se for pra ser, será. Se está demorando, é porque o melhor ainda está por vir.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 479,
+        "frase": "Pare de ter medo do que poderia dar errado e pense no que poderia dar certo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 480,
+        "frase": "Esqueça tudo que deu errado ontem, hoje é um novo dia, uma nova oportunidade para acertar e ser feliz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 481,
+        "frase": "Para cada baixo da vida, existe um alto. Lembre-se disso todas as vezes que tropeçar e cair!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 482,
+        "frase": "Quando nada fizer sentido, lembre-se que aqui não é casa, é caminho! Continue.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 483,
+        "frase": "Não desanime, o crescimento é um processo lento e por vezes doloroso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 484,
+        "frase": "Se for preciso mudar, mude! Comece de novo, a vida é feita de recomeços.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 485,
+        "frase": "Sigo mudando, mas estou fazendo isso por mim (não pelos outros!)",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 486,
+        "frase": "A vida só dá asas para quem não tem medo de cair.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 487,
+        "frase": "Se murcharem suas pétalas e cortarem suas flores, lembre-se que você tem raízes!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 488,
+        "frase": "O otimismo é a fé em ação. Nada se pode levar a efeito sem otimismo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 489,
+        "frase": "Nada acontece por acaso, em tudo Deus tem um propósito.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 490,
+        "frase": "Tenha orgulho do quanto você já andou e fé em quão longe você ainda pode chegar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 491,
+        "frase": "Quando não é para o nosso bem, Deus afasta.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 492,
+        "frase": "Dá o passo, que Deus dá o chão!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 493,
+        "frase": "Acreditar que tudo tem uma solução não é otimismo, é fé.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 494,
+        "frase": "Sustentada e protegida por aquele que nunca falha!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 495,
+        "frase": "Nada melhor que um dia após o outro, e Deus na frente de tudo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 496,
+        "frase": "Aquele que espera no Senhor não será decepcionado.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 497,
+        "frase": "Quem tem fé em Deus sabe que ele não te dá um fardo maior do que você pode carregar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 498,
+        "frase": "Otimismo não significa ser cego para a realidade real de uma situação. Significa manter um espírito positivo para continuar a buscar uma solução para qualquer problema. E significa reconhecer que qualquer situação tem muitos aspectos diferentes – tanto positivos quanto problemáticos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 499,
+        "frase": "O otimismo é um imã de felicidade. Se você permanecer positivo, coisas boas e pessoas boas serão atraídas para você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 500,
+        "frase": "Otimista: disposição para ver as coisas pelo lado bom e acreditar que há uma solução favorável, mesmo nas situações mais difíceis.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 501,
+        "frase": "Já perdi mais do que ganhei, mas o pouco que ganhei vale mais do que tudo que já perdi.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 502,
+        "frase": "A meta é ser melhor que ontem, não melhor do que ninguém!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 503,
+        "frase": "Você nunca seria quem você é hoje se não tivesse passado por tudo que passou.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 504,
+        "frase": "Entender que a vida é feita de ciclos faz com que você fique em paz com tudo que chega e com tudo que se vai.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 505,
+        "frase": "Cada começo é um convite para o novo e também para a coragem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 506,
+        "frase": "Eu sei que a vida é dura, mas ela me ensina a ser cada dia mais forte.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 507,
+        "frase": "Senhor, se um dia eu estiver prestes a perder as esperanças, me ajude a lembrar que os seus planos são maiores que os meus sonhos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 508,
+        "frase": "Na estrada para o Céu, não há aflições que não possam ser curadas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 509,
+        "frase": "Vá firme na direção das suas metas. Porque o pensamento cria, o desejo atrai e a fé realiza.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 510,
+        "frase": "A esperança é a luz que nos guia para bem longe do precipício dos nossos piores pensamentos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 511,
+        "frase": "Que eu tenha asas para sonhar, esperança para acreditar e fé para continuar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 512,
+        "frase": "Se quiser que sua vida tenha um novo sentido, um novo sabor: bote fé, esperança e amor.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 513,
+        "frase": "Deus vai virar essa página e os próximos capítulos serão de vitórias.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 514,
+        "frase": "A fé é o perfeito alimento para uma esperança renovada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 515,
+        "frase": "Diante de cada impossibilidade humana, há sempre uma possibilidade divina.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 516,
+        "frase": "O mundo fecha portas, mas Deus abre caminhos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 517,
+        "frase": "Você não pode controlar as coisas que acontecem com você, mas pode decidir como lidará com elas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 518,
+        "frase": "Nunca é tarde para pegar uma velha história e escrever um novo final.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 519,
+        "frase": "As suas dores não podem ser maiores do que a sua esperança.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 520,
+        "frase": "A esperança em dias melhores é o que faz os obstáculos sumirem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 521,
+        "frase": "Perder a esperança é chegar ao fundo do poço. Não faça isso contigo!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 522,
+        "frase": "Esperança é uma palavra que devemos diariamente levar conosco quando saímos de casa.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 523,
+        "frase": "Faça a sua parte e o universo retribuirá! Que a esperança seja a chama sempre acesa em seu coração.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 524,
+        "frase": "Quando faltar motivação ou esperança, apenas lembre-se da sua força. Ela está presente dentro de você!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 525,
+        "frase": "Pratique a esperança e logo ela se tornará um hábito, te fazendo alcançar a plenitude de um espírito feliz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 526,
+        "frase": "O importante mesmo é nunca desistir, pois de uma hora para outra as coisas de transformam e ganham um novo sentido.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 527,
+        "frase": "Querido passado, obrigado por tudo que me ensinou... Querido futuro, pode vir!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 528,
+        "frase": "Não perca a esperança, você nunca sabe o que o amanhã lhe promete.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 529,
+        "frase": "Bonito mesmo é essa coisa que dá na gente de acreditar que cada dia pode ser melhor!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 530,
+        "frase": "Mesmo que tudo esteja ao contrário, que tudo não seja visivelmente possível, guardo em mim uma louca, uma misteriosa, uma desesperada e descabelada esperança!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 531,
+        "frase": "Sempre que o sol nasce, surge uma nova esperança.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 532,
+        "frase": "Esperanças são essas coisinhas cheias de magia que nunca faltam em nossos corações.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 533,
+        "frase": "É melhor viver se expondo ao fracasso do que se arrepender de não fazer nada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 534,
+        "frase": "Não se preocupe com as coisas que você não pode controlar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 535,
+        "frase": "Por mais difícil que seja, nunca deixe de acreditar em dias melhores.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 536,
+        "frase": "Nós só erramos na vida quando deixamos de tentar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 537,
+        "frase": "Para todo game over existe um play again.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 538,
+        "frase": "Saiba que o melhor está por vir. Acredite!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 539,
+        "frase": "Calma, o mundo ainda tem muita volta para dar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 540,
+        "frase": "A esperança é a última que morre.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 541,
+        "frase": "Faça de cada dia um novo horizonte.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 542,
+        "frase": "Acima de tudo, não perca a esperança.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 543,
+        "frase": "Ouça sua esperança e não os seus medos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 544,
+        "frase": "Tempestades não duram para sempre.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 545,
+        "frase": "Esperança é a criança de sorriso mais puro.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 546,
+        "frase": "Coisas boas sempre surgem quando as ruins vão embora.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 547,
+        "frase": "Aquiete o coração, cuide do que estiver ao seu alcance. O que não estiver, deixa que Deus se responsabiliza.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 548,
+        "frase": "Tudo tem a hora certa para acontecer. E, na maioria das vezes, aquilo que você mais deseja só acontecerá quando você menos esperar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 549,
+        "frase": "Quando a angústia nos afligir, quando o desespero nos invadir, fechemos os olhos para que nosso coração nos guie através do amor de Deus.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 550,
+        "frase": "Esperança não é a última que morre, mas a primeira que nasce quando tudo parece perdido e sem solução.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 551,
+        "frase": "E quando você pensa que já é tarde demais, Deus interrompe dizendo: de acordo com o tempo de quem?",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 552,
+        "frase": "Você vai dar a volta por cima, seu milagre vai chegar. Isso não é para provar que você venceu, mas para que todos conheçam através de você o que Deus pode fazer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 553,
+        "frase": "Pedi forças e Deus me deu dificuldades para me fazer forte. Pedi sabedoria e Deus me deu problemas para resolver. Eu não recebi nada do que pedi, mas tive tudo o que precisava.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 554,
+        "frase": "Bendita seja essa esperança plantada no peito, regada com fé que faz a gente acreditar de novo e de novo que tudo pode melhorar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 555,
+        "frase": "Mais importante do que as rasteiras da vida, são as lições que você aprende quando passa por cada uma delas. Para entender o propósito é preciso respeitar o processo!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 556,
+        "frase": "Agradeça por tudo que você tem, por tudo que você recebe e por tudo que irá receber.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 557,
+        "frase": "Gratidão para o dia de hoje, esperança para o dia de amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 558,
+        "frase": "Quando somos gratos pelo que temos, não adiamos nossas esperanças.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 559,
+        "frase": "Como é bom acordar com as esperanças renovadas de que dias melhores virão!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 560,
+        "frase": "Esperança e gratidão são duas formas de fazer coisas boas acontecerem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 561,
+        "frase": "Gratidão pelo recomeço! Que haja sempre esperança para acreditar mais uma vez.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 562,
+        "frase": "A gratidão pela vida é o que nos faz acordar com a esperança de que ela com certeza vale a pena.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 563,
+        "frase": "Há sempre uma esperança para quem carrega no peito um coração repleto de gratidão.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 564,
+        "frase": "Gratidão pelo que passou, esperança para o que virá.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 565,
+        "frase": "Viver é um presente e a melhor forma de viver a vida é com esperança.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 566,
+        "frase": "A vida é curta. Quebre as regras, perdoe rapidamente, beba lentamente, ame verdadeiramente, ria incontrolavelmente e nunca se arrependa de nada que te faça sorrir.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 567,
+        "frase": "Quando penso que cheguei ao meu limite, descubro que tenho forças para ir além.",
+        "autor": "Ayrton Senna"
+    },
+    {
+        "id": 568,
+        "frase": "Nunca permita que alguém corte suas asas, estreite seus horizontes e tire as estrelas do teu céu. Nunca deixe seus medos serem maiores que a tua vontade de voar. O valor da vida está nos sonhos que lutamos para conquistar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 569,
+        "frase": "Dica do dia: sinta-se bem do jeito que você é e não do jeito que as pessoas querem que você seja.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 570,
+        "frase": "Um dia você ainda vai olhar pra trás e ver que os problemas eram, na verdade, os degraus que te levaram à vitória.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 571,
+        "frase": "A estrada é sua e somente sua! Outros podem andar ao seu lado, mas lembre-se: ninguém pode andar por você, trilhar a sua jornada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 572,
+        "frase": "Se você quer vencer não fique olhando a escada, comece a subir degrau por degrau até chegar no topo!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 573,
+        "frase": "Nunca deixe de lutar por medo de errar, ou se machucar, pois as feridas com o tempo se curam, mas as oportunidades não voltam.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 574,
+        "frase": "Ame-se muito, de verdade, aprenda a ser mais humilde e quando pensar em desistir do que mais se quer, saiba que quando desejamos algo, o universo realmente conspira a favor, desde que você realmente acredite!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 575,
+        "frase": "Vá firme na direção da sua meta. Porque o pensamento cria, o desejo atrai e a fé realiza.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 576,
+        "frase": "Todo dia é dia de viver.",
+        "autor": "Márcio Borges"
+    },
+    {
+        "id": 577,
+        "frase": "Não pense em desistir. O seu corpo escuta tudo o que a sua mente diz.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 578,
+        "frase": "A vida é um constante recomeço. Não se dê por derrotado e siga adiante. As pedras que hoje atrapalham sua caminhada amanhã enfeitarão a sua estrada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 579,
+        "frase": "As estradas da vida nem sempre são planas e lisas. Têm subidas e descidas, retas e curvas, poeiras, noites, tempestades. Encare tudo com confiança, sem desanimar. E se encontrares muitas pedras pelo caminho, junte-as para construir com elas a escada por onde chegarás ao topo do sucesso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 580,
+        "frase": "Todo pensamento positivo te impulsiona na direção certa.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 581,
+        "frase": "Posso ainda não ter chegado onde eu queria, mas estou mais perto do que ontem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 582,
+        "frase": "Nunca desista de um sonho só por causa do tempo que você vai levar para realizá-lo. O tempo vai passar de qualquer forma.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 583,
+        "frase": "Mas pra quem tem pensamento forte o impossível é só questão de opinião.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 584,
+        "frase": "Não importa o que as pessoas pensam, se você acredita que vale a pena, lute por isso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 585,
+        "frase": "Mentalize coisas boas e elas acontecerão!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 586,
+        "frase": "Pense positivo\nSeja otimista\nSonhe alto\nConheça pessoas\nFaça o bem\nLeia mais\nTrabalhe duro\nRealize sonhos\nConstrua o futuro\nMantenha o foco\nAme seu trabalho\nViva intensamente",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 587,
+        "frase": "Não importa como você cai, o que importa é como você se levanta.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 588,
+        "frase": "Na adversidade, uns desistem, enquanto outros batem recordes.",
+        "autor": "Ayrton Senna"
+    },
+    {
+        "id": 589,
+        "frase": "Nunca se esqueça que há algo dentro de você maior do que qualquer obstáculo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 590,
+        "frase": "Não tenha medo da vida! Tenha medo de não vivê-la.",
+        "autor": "Augusto Cury"
+    },
+    {
+        "id": 591,
+        "frase": "Quando você sempre tem medo de tomar uma decisão errada, você está constantemente antecipando o fracasso. Atrasar ou evitar tomar uma decisão, por causa dos problemas que podem vir a ocorrer, coloca você numa posição negativa. Quando você é controlado pelo medo, você focaliza somente o lado negativo. Quando você evita tomar uma decisão, você…",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 592,
+        "frase": "Todo dia de ontem pode ter sido árduo. Muitas lutas vieram, deixando-lhe o cansaço. Provas inesperadas alteram os seus planos. Some, porém, as bênçãos que Deus lhe entregou. Esqueça qualquer sombra, não pare, sirva e siga em frente. Agora é novo dia, tempo de caminhar.",
+        "autor": "Chico Xavier"
+    },
+    {
+        "id": 593,
+        "frase": "Bora ser feliz porque faz bem pra saúde.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 594,
+        "frase": "Só quem já perdeu na vida sabe o que é ganhar, porque encontrou na derrota o motivo para lutar.",
+        "autor": "Padre Fábio de Melo"
+    },
+    {
+        "id": 595,
+        "frase": "Não deixe seus medos roubarem seus sonhos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 596,
+        "frase": "Sonhar, nunca desistir. Ter fé, pois fácil não é e nem vai ser.",
+        "autor": "MC Gui"
+    },
+    {
+        "id": 597,
+        "frase": "Os que desprezam os pequenos acontecimentos nunca farão grandes descobertas. Pequenos momentos mudam grandes rotas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 598,
+        "frase": "E quando você pensar em desistir, lembre-se dos motivos que te fizeram aguentar até agora.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 599,
+        "frase": "Quer saber o sentido da vida? Pra frente.",
+        "autor": "Emicida"
+    },
+    {
+        "id": 600,
+        "frase": "Faça com amor, com vontade, com determinação! Pode ter certeza que desta forma você colherá sempre bons frutos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 601,
+        "frase": "Se não houver vento, reme.",
+        "autor": "Autor desconhecido"
+    },
+    {
+        "id": 602,
+        "frase": "Tenha orgulho do quanto você já andou. Tenha fé em quão longe você pode chegar.",
+        "autor": "Autor desconhecido"
+    },
+    {
+        "id": 603,
+        "frase": "Se for duvidar, duvide dos seus limites, mas nunca do seu potencial. Lembre-se que o poder está dentro de você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 604,
+        "frase": "Mesmo se as chances forem uma em um milhão, lembre-se há uma!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 605,
+        "frase": "Não deixe que neste dia nada te desanime, pois até mesmo um pontapé no traseiro te empurra para frente!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 606,
+        "frase": "Dentro de você está o poder para transformar a sua vida e o mundo ao seu redor.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 607,
+        "frase": "Lute pelo que quer. Ninguém mais fará isso por você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 608,
+        "frase": "Tenha flores nas mãos, verdade no olhar, amor no coração e muita alegria para que a vida te retribua com dias cheios de paz!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 609,
+        "frase": "Faça alguém feliz todos os dias. Ainda que seja você mesmo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 610,
+        "frase": "Não importa o tamanho do desafio, o que importa é a vontade de vencer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 611,
+        "frase": "Todas as caminhadas começam com um primeiro passo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 612,
+        "frase": "Aceite o que é, esqueça o que foi, tenha fé no que será.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 613,
+        "frase": "Tempo de viver coisas novas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 614,
+        "frase": "Vá até onde sua vista enxergar e ao chegar lá, você sempre conseguirá ver mais longe.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 615,
+        "frase": "Se a vida não ficar mais fácil, trate de ficar mais forte.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 616,
+        "frase": "Foi um passarinho que me contou que não vale a pena desistir dos sonhos, nem esconder sentimentos. Que não é bom voar sozinho, e que todo mundo quer formar um ninho. E eu concordo com o passarinho.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 617,
+        "frase": "Eu te desafio a reclamar menos do que não dá certo. E a sorrir a cada pequena conquista. A, ao invés de olhar sempre para a própria vida, virar um pouco a cabeça e enxergar o outro. A saborear cada passo e não te preocupar somente com a meta final. A, por mais que as…",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 618,
+        "frase": "Acredite em si, nos seus sonhos e no seu potencial para os realizar. Sorria, sempre, pois a vida é curta demais para que percamos um único segundo não sendo felizes.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 619,
+        "frase": "Se importar menos e viver mais. É nesta ordem que a vida acontece!",
+        "autor": "Bibiana Benites"
+    },
+    {
+        "id": 620,
+        "frase": "Comece fazendo o que é necessário, depois o que é possível, em breve estarás fazendo o impossível!",
+        "autor": "São Francisco de Assis"
+    },
+    {
+        "id": 621,
+        "frase": "Tente ser feliz ao invés de tentar ser perfeito.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 622,
+        "frase": "Tudo na vida é questão de perspectiva, procure o melhor ângulo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 623,
+        "frase": "As melhores coisas acontecem para quem levanta e faz!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 624,
+        "frase": "Que, quando nossas pernas estiverem cansadas, possamos caminhar com a força que existe em nosso coração. Que, quando nosso coração estiver cansado, possamos mesmo assim seguir adiante com a força da fé!",
+        "autor": "Paulo Coelho"
+    },
+    {
+        "id": 625,
+        "frase": "Você nunca é velho demais para determinar um novo objetivo na vida ou para sonhar um sonho novo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 626,
+        "frase": "Há tantas pessoas lá fora que irão te dizer que você não consegue. O que você deve fazer é virar para elas e dizer: me observe.",
+        "autor": "Caio Fernando Abreu"
+    },
+    {
+        "id": 627,
+        "frase": "O primeiro passo para a cura de uma doença é manter uma atitude positiva. Seja forte e acredite que você vencerá!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 628,
+        "frase": "Foca no que pode dar certo, não no que pode dar errado.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 629,
+        "frase": "Não importa se você vai devagar, contanto que você não pare.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 630,
+        "frase": "Dê um beijo, um abraço, um passo em sua direção… Aproxime-se sem cerimônia… Dê um pouco do seu calor e do seu sentimento… Sente-se perto e deixe-se ficar algum tempo, ou muito tempo… Não conte o tempo de se dar e aprenda a burlar a superficialidade… Sonhe o sonho sem dúvidas, deixe o sorriso acontecer,…",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 631,
+        "frase": "Faça dos seus sonhos um objetivo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 632,
+        "frase": "Você não conhece sua força até que ser forte seja sua única opção.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 633,
+        "frase": "Pare de olhar para trás. Você sabe onde já esteve. Você precisa saber para onde vai! Acostume seus olhos a mirar o futuro!",
+        "autor": "Claude M. Bristol"
+    },
+    {
+        "id": 634,
+        "frase": "E quantas vezes você já pensou em desistir, mas algo te fez levantar a cabeça e mostrar que você é forte?",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 635,
+        "frase": "Recria tua vida, sempre, sempre. Remove pedras e planta roseiras e faz doces. Recomeça.",
+        "autor": "Cora Coralina"
+    },
+    {
+        "id": 636,
+        "frase": "Quando esgotam as possibilidades, a fé pra viver milagres pode entrar em ação!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 637,
+        "frase": "Sim, a vida é imprevisível, e é cada vez mais. E é bom que estejamos preparados para isso. Sempre.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 638,
+        "frase": "Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz.",
+        "autor": "Bill Gates"
+    },
+    {
+        "id": 639,
+        "frase": "Sorri!\nNão se preocupa com as pedras e os tropeços.\nNão liga pro azedume alheio, não te deixa contaminar pelas caras feias de gente mal humorada.\nSeja leve, siga leve, pensa positivo.\nHá sempre um novo lado, um novo ângulo.\nHá sempre um jeito de deixar a vida mais bonita. Acredite!",
+        "autor": "Monalisa Macêdo"
+    },
+    {
+        "id": 640,
+        "frase": "Não deixe de ser quem você é nunca! É muito importante ser você mesma, muitas vezes sua personalidade ajuda uma pessoa a seguir em frente ou a continuar tentando.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 641,
+        "frase": "Não espere que a vida o surpreenda, você é que tem que surpreender a vida.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 642,
+        "frase": "Aprendi a aceitar algumas verdades inescapáveis: quem te ama não desiste de você; amigos leais estão contigo em todos os momentos e a melhor maneira de encarar os problemas é olhá-los de frente!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 643,
+        "frase": "Comece. Não espere pela coragem: ela nos encontra caminhando…",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 644,
+        "frase": "O verdadeiro vencedor é aquele que mesmo nos momentos de dificuldades jamais desiste dos seus objetivos e enfrenta o sofrimento de cabeça erguida, sabendo que mais a frente, a grande vitória chega.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 645,
+        "frase": "Nunca desista das coisas que fazem você sorrir!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 646,
+        "frase": "Enquanto estiver vivo, sinta-se vivo. Se sentir saudades do que fazia, volte a fazê-lo. Não viva de fotografias amareladas… Continue, quando todos esperam que desistas. Não deixe que enferruje o ferro que existe em você. Faça com que em vez de pena, tenham respeito por você. Quando não conseguir correr através dos anos, trote. Quando não conseguir trotar, caminhe. Quando não conseguir caminhar, use uma bengala. Mas nunca se detenha.",
+        "autor": "Madre Teresa de Calcutá"
+    },
+    {
+        "id": 647,
+        "frase": "Não tome decisões por acaso, mas sim para mudar sua vida.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 648,
+        "frase": "Levanta da cama e vai lá fora construir o seu bom dia!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 649,
+        "frase": "O que revela a nossa força não é sermos imbatíveis, incansáveis, invulneráveis. É a coragem de avançar, ainda que com medo. É a vontade de viver, mesmo que já tenhamos morrido um pouco ou muito, aqui e ali, pelo caminho. É a intenção de não desistirmos de nós mesmos, por maior que às vezes seja a tentação. São os gestos de gentileza e ternura que somente os fortes conseguem ter.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 650,
+        "frase": "Ser otimista não é viver na ilusão: é acreditar que mesmo na situação mais difícil você pode aprender coisas boas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 651,
+        "frase": "Seja mais forte do que a sua melhor desculpa.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 652,
+        "frase": "Iniciar um novo caminho assusta, mas depois de um tempo percebemos que era mais perigoso permanecer parado.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 653,
+        "frase": "Caminhe com coragem, fale com convicção, sonhe com liberdade.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 654,
+        "frase": "Não se preocupe, não tenha pressa. O que é seu, encontrará um caminho para chegar até você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 655,
+        "frase": "Tudo é questão de tentativas e de não desistir. Que a cada tombo possamos fazer da queda um trampolim e ir para cima.",
+        "autor": "Mayara Benatti"
+    },
+    {
+        "id": 656,
+        "frase": "Tudo é possível quando você se liberta dos seus medos e encontra a coragem para voar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 657,
+        "frase": "Saber esperar dias melhores é carregar no peito uma fé inabalável. É ter forças para levantar depois da queda, sorrir depois do choro e continuar em frente depois da decepção. É acreditar que existe alguém lá em cima preparando maravilhas enquanto a gente prova merecimento diante dos obstáculos.",
+        "autor": "Vanessa Haas"
+    },
+    {
+        "id": 658,
+        "frase": "Entender a vontade de Deus nem sempre é fácil, mas crer que ele está no comando e tem um plano pra nossa vida, faz a caminhada valer a pena.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 659,
+        "frase": "Para conquistar algo grande, é preciso começar pequeno.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 660,
+        "frase": "Entre a raiz e a flor, há o tempo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 661,
+        "frase": "Não duvide: você sempre pode ir muito mais além do que imagina.",
+        "autor": "Pedro Henrique"
+    },
+    {
+        "id": 662,
+        "frase": "Não deixe seus medos te privarem da vida incrível que você merece ter.",
+        "autor": "Daniel Duarte"
+    },
+    {
+        "id": 663,
+        "frase": "Troque o medo do que não conhece por curiosidade!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 664,
+        "frase": "Acredite nas suas intuições. O mais sábio mestre está dentro de nós!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 665,
+        "frase": "Escolha uma estrada com um bom destino, mas que lhe dê felicidade enquanto caminha nela.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 666,
+        "frase": "Sejam fortes e corajosos. Não tenham medo nem fiquem apavorados, pois o Senhor, o seu Deus, vai com vocês; nunca os deixará, nunca os abandonará. (Deuteronômio 31:6)",
+        "autor": "Bíblia Sagrada"
+    },
+    {
+        "id": 667,
+        "frase": "Se esforce pelos seus sonhos, mas seja paciente. A vida acontece um dia de cada vez.",
+        "autor": "Daniel Duarte"
+    },
+    {
+        "id": 668,
+        "frase": "Se você tem um sonho, tem também uma obrigação: tentar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 669,
+        "frase": "O sacrifício é o intervalo entre o seu objetivo e a sua glória.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 670,
+        "frase": "Acredite, mesmo que mude de ideia, de rota ou de vida!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 671,
+        "frase": "Os sonhos são renováveis. Não importa o que a nossa idade ou condição diga, ainda há possibilidades inexploradas dentro de nós e nova beleza esperando para nascer.",
+        "autor": "Dale Turner"
+    },
+    {
+        "id": 672,
+        "frase": "A gente tem a mania de achar que é perfeito ou que faz o possível. Mas tenho uma notícia pra dar para você: sempre podemos fazer mais. Sempre podemos nos esforçar mais. Isso não quer dizer que você não seja bom, só que você pode dar mais um ou dois passos.",
+        "autor": "Clarissa Corrêa"
+    },
+    {
+        "id": 673,
+        "frase": "Sabe o que é legal? Vencer quando ninguém mais acredita em você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 674,
+        "frase": "Seu futuro é criado pelo que você faz hoje, não amanhã.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 675,
+        "frase": "Ele fortalece o cansado e dá grande vigor ao que está sem forças. Até os jovens se cansam e ficam exaustos, e os moços tropeçam e caem; mas aqueles que esperam no Senhor renovam as suas forças. Voam alto como águias; correm e não ficam exaustos, andam e não se cansam. (Isaías 40:29-31)",
+        "autor": "Bíblia Sagrada"
+    },
+    {
+        "id": 676,
+        "frase": "A motivação é fruto da fé em si mesmo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 677,
+        "frase": "A vida ensina que se você pode aguentar, você pode vencer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 678,
+        "frase": "Tenha coragem de seguir o seu próprio coração e a sua intuição. Eles, de alguma maneira, já sabem o que você realmente quer se tornar. Todo o resto é secundário.",
+        "autor": "Steve Jobs"
+    },
+    {
+        "id": 679,
+        "frase": "Comece acreditando que é possível!",
+        "autor": "Daniel Duarte"
+    },
+    {
+        "id": 680,
+        "frase": "Comece cada dia com um sorriso e mantenha-o durante todo o dia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 681,
+        "frase": "Você ainda tem tanto pra viver, tanto pra sonhar, amadurecer, aprender. Não deixe que algo estrague o que há de mais bonito em você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 682,
+        "frase": "Cometer erros não significa que você seja um erro.",
+        "autor": "Daniel Duarte"
+    },
+    {
+        "id": 683,
+        "frase": "Quando encontrar seu motivo para viver, agarre-o. Nunca o perca de vista. Mesmo que isso signifique abrir mão de outros caminhos.",
+        "autor": "Abbi Glines"
+    },
+    {
+        "id": 684,
+        "frase": "Quando você começa a caminhar, o caminho certo aparece.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 685,
+        "frase": "O céu não é o limite. Sua mente é.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 686,
+        "frase": "Quanto mais você faz, mais longe você vai.",
+        "autor": "Phellipe"
+    },
+    {
+        "id": 687,
+        "frase": "Eu continuo acreditando nos “sins” da vida, mesmo quando ela insiste em me enfiar goela a baixo uma sucessão de “nãos”. Desculpa vida, mas eu não desisto de mim por nada nesse mundo.",
+        "autor": "Bibiana Benites"
+    },
+    {
+        "id": 688,
+        "frase": "Se foi, era pra ser, se não foi, espera que tem algo melhor pra você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 689,
+        "frase": "Quando faltar sorte, faça sobrar atitude. O azar morre de medo de pessoas determinadas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 690,
+        "frase": "Siga todos os arco-íris, até encontrar seu sonho.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 691,
+        "frase": "Não olhe o tamanho da estrada. Perceba o quanto você já caminhou.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 692,
+        "frase": "Sua felicidade está ali, bem onde você não consegue ir por medo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 693,
+        "frase": "Você pode fazer o que quiser, desde que possa sonhar com isso.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 694,
+        "frase": "Quando algo bom parte é porque algo incrível vai chegar. Acredite!",
+        "autor": "Mayara Benatti"
+    },
+    {
+        "id": 695,
+        "frase": "Algumas vezes o delicioso café está amargo. Então, depois da careta, olhamos o fundo da xícara. Era o açúcar. Estava lá. Bem no fundo. É preciso mexer. Assim é nossa vida. Quando sentimos um gosto amargo é preciso observar, ir bem fundo, mexer com o que está parado. Às vezes falta coragem e ficamos fazendo…",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 696,
+        "frase": "Nossos melhores sucessos vêm depois de nossas maiores decepções.",
+        "autor": "Henry Ward Beecher"
+    },
+    {
+        "id": 697,
+        "frase": "Tente. Sei lá, tem sempre um pôr-do-sol esperando para ser visto, uma árvore, um pássaro, um rio, uma nuvem, pelo menos sorria. Procure sentir amor. Imagine. Invente. Sonhe. Voe.",
+        "autor": "Caio Fernando Abreu"
+    },
+    {
+        "id": 698,
+        "frase": "Nada falta para quem precisa. Embora o sol não esteja a vista em certos momentos, lembre-se que apesar do que parece, ele continua no mesmo lugar. Ele está lá, belo e brilhante para afirmar a beleza da vida e a grandeza de Deus. Não se deixe enganar pelas aparências. O bem, pode não estar visível em certos momentos, mas ele, mesmo assim, continua agindo, distribuindo sua luz, colocando cada coisa no devido lugar.",
+        "autor": "Zibia Gasparetto"
+    },
+    {
+        "id": 699,
+        "frase": "Desistir de um sonho por causa de um imprevisto é a mesma coisa que rasgar os outros três pneus do seu carro por causa de um pneu furado. Deu errado? Conserte o erro e continue, você vai chegar!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 700,
+        "frase": "Aqui, no entanto, nós não olhamos para trás por muito tempo. Nós continuamos seguindo em frente, abrindo novas portas e fazendo coisas novas, porque somos curiosos… e a curiosidade continua nos conduzindo por novos caminhos. Siga em frente.",
+        "autor": "Walt Disney"
+    },
+    {
+        "id": 701,
+        "frase": "A verdadeira coragem está em enfrentar o perigo quando se tem medo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 702,
+        "frase": "Pare de dizer que o céu é o limite, pois há pegadas na lua.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 703,
+        "frase": "A meta é sempre ir dormir cheio de sonhos e acordar com disposição para realizar cada um deles.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 704,
+        "frase": "Para os erros, há perdão… Para os fracassos, chance. Para os amores impossíveis, tempo. Não deixe que a saudade sufoque, que a rotina acomode, e que o medo impeça de tentar!",
+        "autor": "Luis Fernando Verissimo"
+    },
+    {
+        "id": 705,
+        "frase": "Não desista! O universo trabalha a favor dos fortes, corajosos e decididos. E, no meu caso, dos teimosos.",
+        "autor": "JL Amaral"
+    },
+    {
+        "id": 706,
+        "frase": "Atropelei os sonhos, venci as mágoas, convivi com os fracos, suportei os falsos e hoje sei a força que eu tenho para enfrentar qualquer obstáculo. Estou focada!",
+        "autor": "Thereza Ferreira"
+    },
+    {
+        "id": 707,
+        "frase": "Embora o sol brilhe durante o dia e a lua surja por entre as estrelas, um dia nunca é igual ao outro.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 708,
+        "frase": "Enfrentar os medos, os amores passados e as desculpas que a gente dá para fingir que é feliz, isso sim, é coisa de gente corajosa, até porque de cagão já basta o coração dos outros.",
+        "autor": "Frederico Elboni"
+    },
+    {
+        "id": 709,
+        "frase": "Que hoje você consiga fazer o melhor que pode, sem cobranças ou culpas. Que hoje você não absorva as energias inferiores que procuram te invadir a todo instante. Que hoje você tenha persistência para fazer todo o bem que consegue, ainda que nem sempre seja assim tão simples. Que hoje você aprenda um pouco mais e que termine o dia com aquela sensação de paz e dever cumprido.",
+        "autor": "Clarissa Corrêa"
+    },
+    {
+        "id": 710,
+        "frase": "Plante seus sonhos, mas não se esqueça de regar. Com o devido cuidado, tudo floresce.",
+        "autor": "Mayara Benatti"
+    },
+    {
+        "id": 711,
+        "frase": "Retire o “não posso” da sua mente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 712,
+        "frase": "Regra do dia: ou senta no caminho e cruza os braços, ou levanta e faz acontecer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 713,
+        "frase": "Que tal fazer agora o que alguns insistem em dizer que você não vai conseguir?",
+        "autor": "Pedro Henrique"
+    },
+    {
+        "id": 714,
+        "frase": "Vai lá e faz, e fala, e mostra que dá e, se precisar, repete e faz tudo de novo, até todo mundo entender que nenhuma desculpa, maré ruim ou nuvem negra vão te parar.",
+        "autor": "Pedro Henrique"
+    },
+    {
+        "id": 715,
+        "frase": "O importante não é o quão rápido você vai chegar. O importante é ir.",
+        "autor": "Mayara Benatti"
+    },
+    {
+        "id": 716,
+        "frase": "Com chuva ou com sol, feliz ou triste, a ordem da vida é seguir em frente. Problemas e tempestades fazem parte e desempenham o papel de nos lapidar e fazer com que nos tornemos melhores. Por isso meu amigo, abraça a vida, sorria para ela, caminhe convicto de que o Senhor tem os melhores planos para você, não vai ser uma chuvinha que vai impedir seu caminhar!",
+        "autor": "Priscilla Rodighiero"
+    },
+    {
+        "id": 717,
+        "frase": "Não adie suas vontades. Não limite o seu sonhar. Não boicote a ousadia bonita de viver suas loucuras. Não deixe pra depois o beijo que pode curar uma mágoa, o abraço que pode confortar um coração. Não deixe pra depois o sorriso que pode afrouxar o mau humor, as palavras mágicas que podem transformar uma história. Hoje é presente. É semente do amanhã. O viva intensamente.",
+        "autor": "Marcely Pieroni Gastaldi"
+    },
+    {
+        "id": 718,
+        "frase": "Você pode refazer sua história. Troque o “era uma vez” pelo “é desta vez”!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 719,
+        "frase": "Tentar não significa conseguir, mas certamente quem conseguiu tentou.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 720,
+        "frase": "Enquanto houver um sonho para seguir, haverá motivo para existir.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 721,
+        "frase": "A perseverança não é uma longa corrida; ela é muitas corridas curtas, uma depois da outra.",
+        "autor": "Walter Elliott"
+    },
+    {
+        "id": 722,
+        "frase": "Sonhe! Busque os seus sonhos. Você poderá encontrar realidades maiores às que havia sonhado… Acorde e realize, a vida fará o restante.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 723,
+        "frase": "Posso ser cheia de dúvidas, mas se tem uma coisa que não faz parte da minha vida é a paralisia. Você até pode me ver reclamar, berrar, me contorcer, mas de maneira nenhuma vai me ver calar, aceitar e me conformar com o que não for bom pra mim. Posso sentir meu passo lento, meu…",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 724,
+        "frase": "Segue, persiste, insiste! Que você pode, você consegue e tem muito sonho ainda pra realizar! Vai correndo com a fé que ela te guia até lá!",
+        "autor": "Vanessa Haas"
+    },
+    {
+        "id": 725,
+        "frase": "A gente pode conquistar tudo, depende apenas da nossa vibração e dedicação.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 726,
+        "frase": "Tente. Tente outro dia. Tente outro corte de cabelo. Tente outra música. Outro filme. Uma nova sobremesa. Tente. Outra porta. Uma nova janela. Uma saída estratégica. Um novo passo de dança. Um vestido diferente. Uma palavra mais branda. Um abraço mais caloroso. Continue tentando uma loucura diferente. Outra verdade. Outra ideia. Outro plano. Outro caminho….",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 727,
+        "frase": "Regra do dia: ou senta no caminho e cruza os braços ou levanta e faz acontecer.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 728,
+        "frase": "A vida é cheia de belezas. Note-as. Note-a na pequenina abelha, na criança e nos rostos felizes. Cheire a chuva e sinta o vento. Viva sua vida para o pleno potencial e lute pelos seus sonhos!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 729,
+        "frase": "São os erros que nos fazem grandes, enormes. E nos tornam sábios, muito sábios. Aprendemos mais com os erros do que com os acertos. Errar é realmente muito útil. E é isso que o levará a lugares onde você nunca imaginaria ir.",
+        "autor": "Mr. Wonderful"
+    },
+    {
+        "id": 730,
+        "frase": "Segura as pontas que você dá conta.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 731,
+        "frase": "Nada é impossível! Você pode muito, você pode tudo, mas você precisa realmente querer. Podemos ir muito além do que imaginamos. Descubra isso, acredite nisso, acredite na força do seu pensamento e na sua capacidade de vencer. Sempre!",
+        "autor": "Damaris Ester Dalmas"
+    },
+    {
+        "id": 732,
+        "frase": "Se você quer ser feliz, mande embora seu “severo juiz”, ouça seu coração. Valorize o que sente e seja uma pessoa verdadeira. Assuma seus sentimentos. Só diga sim depois de sentir o que realmente quer. Não tenha receio de dizer não. Deixe de contar seus problemas aos outros e perguntar o que deve fazer. Confie em seus critérios. Você pode! Experimente.",
+        "autor": "Zibia Gasparetto"
+    },
+    {
+        "id": 733,
+        "frase": "E que você carregue dentro de si uma vontade enorme de continuar, de não desistir, de não se abalar. Que você carregue dentro de si uma vontade enorme de vencer todos os dias!",
+        "autor": "Monalisa Macêdo"
+    },
+    {
+        "id": 734,
+        "frase": "As pessoas esperam toda a semana pela sexta, todo o ano pelo verão, toda a vida por felicidade. Faça diferente: transforme todos os dias em sextas-feiras, aproveite as quatro estações e não espere a vida passar para ser finalmente feliz!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 735,
+        "frase": "Cuidado com as voltas que o mundo dá. Hoje você lança as palavras, amanhã sente o efeito delas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 736,
+        "frase": "O tempo deixa perguntas, mostra respostas, esclarece dúvidas, mas, acima de tudo, o tempo traz verdades.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 737,
+        "frase": "É fácil trocar as palavras, \r\nDifícil é interpretar os silêncios! \r\nÉ fácil caminhar lado a lado, \r\nDifícil é saber como se encontrar! \r\nÉ fácil beijar o rosto, \r\nDifícil é chegar ao coração.",
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 738,
+        "frase": "Cada escolha, uma oportunidade. \r\nCada queda, um aprendizado. \r\nCada atitude, uma consequência.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 739,
+        "frase": "Cada cicatriz que temos é a confirmação de que uma ferida sara. Cicatrizes são marcas de superação que só um verdadeiro guerreiro possui.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 740,
+        "frase": "Da vida não quero muito. Quero apenas saber que tentei tudo o que quis, tive tudo o que pude, amei tudo o que valia e perdi apenas o que, no fundo, nunca foi meu.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 741,
+        "frase": "Um sorriso vale mais que mil palavras... Mas uma única palavra pode acabar com mil sorrisos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 742,
+        "frase": "A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente, antes que a cortina se feche e a peça termine sem aplausos.",
+        "autor": "Chaplin"
+    },
+    {
+        "id": 743,
+        "frase": "Sou maduro o bastante para perdoar, mas não sou idiota o suficiente para confiar novamente...",
+        "autor": "Will Smith"
+    },
+    {
+        "id": 744,
+        "frase": "Honestidade é um presente muito caro. Não espere isso de pessoas baratas.",
+        "autor": "Warren Buffett"
+    },
+    {
+        "id": 745,
+        "frase": "Você chora, sofre e corre atrás. E as pessoas só passam a te dar valor quando você começa a desistir.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 746,
+        "frase": "Se a inveja tem sono leve, não tem problema porque quem me protege nunca dorme!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 747,
+        "frase": "Duvide do que vem fácil. E não desista do que é difícil.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 748,
+        "frase": "Que o ontem me sirva de experiência, o amanhã me sirva de esperança... Mas o hoje me sirva como o melhor presente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 749,
+        "frase": "As pessoas são tão previsíveis. \r\nQuerem tudo o que não têm. \r\nEnjoam de tudo que conseguem. \r\nE só valorizam depois que perdem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 750,
+        "frase": "Às vezes é preciso uma decepção para aprendermos que a vida não é feita apenas de alegrias, e sim de tentativas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 751,
+        "frase": "Não se importe com o que vão pensar de você, faça o que você quiser e procure apenas a sua felicidade.",
+        "autor": "Katy Perry"
+    },
+    {
+        "id": 752,
+        "frase": "Esse é o problema das pessoas que são sinceras: acham que todo mundo também é.",
+        "autor": "O Caçador de Pipas"
+    },
+    {
+        "id": 753,
+        "frase": "Ás vezes, você tem que esquecer o que você quer, para começar a entender o que você merece.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 754,
+        "frase": "Ninguém faz cadeados sem chaves. Do mesmo modo, Deus não dá problemas sem soluções.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 755,
+        "frase": "Paciência - Aprender que tudo tem o seu tempo. Que tudo vem a seu tempo. Dar o tempo necessário. Para crescer. Brotar. Florescer. Aceitar o ciclo da vida. Respeitar o fluxo do tempo. Observar o tempo passar. Esperar o tempo certo. Pra plantar. Pra colher. Pra agir. Pra seguir. Pra aprender.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 756,
+        "frase": "Forte é aquele que não desiste dos seus sonhos,  \r\nmesmo com tantas dificuldades no caminho.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 757,
+        "frase": "Se você encontrar um caminho sem obstáculos, ele provavelmente não leva a lugar nenhum.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 758,
+        "frase": "Existe uma coisa pior que o inimigo: o invejoso.  \r\nPorque o invejoso não quer o que você tem, ele quer o que é seu.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 759,
+        "frase": "Deus permite os acontecimentos, mas é você que escreve sua história.",
+        "autor": "Mc Catra"
+    },
+    {
+        "id": 760,
+        "frase": "Na dúvida, escolha o silêncio... Ele incomoda, chateia, irrita, não gasta suas energias e ainda preserva sua imagem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 761,
+        "frase": "Aprenda a dar sua ausência pra quem não valoriza sua presença.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 762,
+        "frase": "Gosto daquilo que me desafia. O fácil nunca me interessou. Já o obviamente impossível sempre me atraiu - e muito.",
+        "autor": "Clarice Lispector"
+    },
+    {
+        "id": 763,
+        "frase": "Viva o hoje, pois o ontem já se foi, e o amanhã talvez não venha.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 764,
+        "frase": "Três coisas não podem ser escondidas por muito tempo: o sol, a lua e a verdade.",
+        "autor": "Buda"
+    },
+    {
+        "id": 765,
+        "frase": "A verdade é que ninguém gosta de falar dos seus próprios erros.",
+        "autor": "Bob Marley"
+    },
+    {
+        "id": 766,
+        "frase": "Não viva para que sua presença seja notada, mas para que sua falta seja sentida.",
+        "autor": "Bob Marley"
+    },
+    {
+        "id": 767,
+        "frase": "Uma coisa eu aprendi na vida: Deus não te tira as coisas, Ele te livra delas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 768,
+        "frase": "Dizem que quando é pra dar certo, até os ventos sopram a favor.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 769,
+        "frase": "Às vezes o apoio e o conforto que você precisa, vem de onde você menos espera.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 770,
+        "frase": "O segredo do perdão é olhar sem julgamento. \r\nO segredo da fé é procurar as provas. \r\nO segredo do carisma é olhar com amor. \r\nO segredo da saúde é a alegria. \r\nO segredo da força é a vontade. \r\nO segredo do amor é a inteligência. \r\nO segredo do destino feliz é ficar no melhor. \r\nO segredo do equilíbrio é buscar o espiritual. \r\nA vida tem seus segredos, mas, para quem está atento, fica fácil descobri-los.",
+        "autor": "Zíbia Gasparetto"
+    },
+    {
+        "id": 771,
+        "frase": "As pessoas só nos atingem quando damos poder a elas.",
+        "autor": "Zíbia Gasparetto"
+    },
+    {
+        "id": 772,
+        "frase": "A raiva é um ladrão que rouba os bons momentos.",
+        "autor": "Joan Lunden"
+    },
+    {
+        "id": 773,
+        "frase": "Quem tem Deus no coração sabe que não há mal que vingue, nem inveja que maltrate, porque para todo mal há cura.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 774,
+        "frase": "Aprendi que amar não significa estar junto, mas sim querer ver a pessoa feliz, mesmo que isso custe a sua felicidade.",
+        "autor": "Querido John"
+    },
+    {
+        "id": 775,
+        "frase": "Na vida irás encontrar três tipos de pessoas: aquelas que irão mudar a tua vida, aquelas que irão prejudicar a tua vida, aquelas que serão a tua vida.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 776,
+        "frase": "Melhor seria se meus acertos, \r\nfossem tão comentados quanto \r\nmeus erros.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 777,
+        "frase": "A vida é um eco. Se você não está gostando do que está recebendo, observe o que está emitindo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 778,
+        "frase": "Quantas chances desperdicei, quando o que eu mais queria era provar pra todo o mundo que eu não precisava provar nada pra ninguém.",
+        "autor": "Renato Russo"
+    },
+    {
+        "id": 779,
+        "frase": "A verdade é que todo mundo vai te machucar, você só tem que escolher por quem vale a pena sofrer.",
+        "autor": "Ayrton Sena"
+    },
+    {
+        "id": 780,
+        "frase": "Não me subestime. Às vezes me faço de cego para enxergar mais longe.",
+        "autor": "Cazuza"
+    },
+    {
+        "id": 781,
+        "frase": "São os pequenos detalhes que fazem a grande diferença.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 782,
+        "frase": "Nunca desista. \r\nA vitória pode estar mais próxima do que se imagina.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 783,
+        "frase": "Talvez um dia a gente aprenda,  \r\na dar mais valor pro que nos traz paz,  \r\ne menos valor pro que traz renda.",
+        "autor": "Projota"
+    },
+    {
+        "id": 784,
+        "frase": "Se Deus criou as pessoas para amar, e as coisas para cuidar. Por que amamos as coisas e usamos as pessoas!",
+        "autor": "Bob Marley"
+    },
+    {
+        "id": 785,
+        "frase": "O ser humano estupra, rouba e mata. E quem toma vacina contra raiva é o cão?",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 786,
+        "frase": "A cada minuto que passamos com raiva, perdemos sessenta segundos felizes.",
+        "autor": "Ralph Waldo Emerson"
+    },
+    {
+        "id": 787,
+        "frase": "As lembranças boas, guarde. As ruins, esqueça. E as mais especiais, recorde.",
+        "autor": "Katy Perry"
+    },
+    {
+        "id": 788,
+        "frase": "A maior decepção é aquela que vem de quem nunca esperamos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 789,
+        "frase": "Não cruze os braços diante de uma dificuldade, pois o maior homem do mundo morreu de braços abertos!",
+        "autor": "Bob Marley"
+    },
+    {
+        "id": 790,
+        "frase": "Na minha vida até agora, descobri que na verdade só há dois tipos de pessoas: aqueles que estão com você, e aqueles que estão contra você. Aprenda a reconhecê-los, pois eles são frequentemente e facilmente confundidos um com o outro.",
+        "autor": "Lemmy Kilmister - Motörhead"
+    },
+    {
+        "id": 791,
+        "frase": "Grandes coisas não se fazem por impulso, mas pela junção de uma série de pequenas coisas.",
+        "autor": "Van Gogh"
+    },
+    {
+        "id": 792,
+        "frase": "A ironia da dor é que você quer ser consolado por quem te machucou.",
+        "autor": "Selena Gomez"
+    },
+    {
+        "id": 793,
+        "frase": "Nossas dúvidas são traidoras e nos fazem perder o que, com frequência, poderíamos ganhar, por simples medo de arriscar.",
+        "autor": "William Shakespeare"
+    },
+    {
+        "id": 794,
+        "frase": "Em meio a tempestades, confie em Deus.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 795,
+        "frase": "Não adianta nada você querer correr, se você está trilhando pela estrada errada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 796,
+        "frase": "Precisamos planejar e refletir sobre nossas decisões, mas tentar encontrar um caminho sem obstáculos, é o mesmo que decidir não ir a lugar nenhum.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 797,
+        "frase": "Nunca perca a fé na humanidade, pois ela é como um oceano. Só porque existem algumas gotas de água suja nele, não quer dizer que ele esteja sujo por completo.",
+        "autor": "Mahatma Gandhi"
+    },
+    {
+        "id": 798,
+        "frase": "Aprendi também que por mais que você queira muito alguém, ninguém vale tanto a pena a ponto de você deixar de se querer.",
+        "autor": "Tati Bernardi"
+    },
+    {
+        "id": 799,
+        "frase": "Não existe amor que não doa. O amor, para ser amor, precisa ser verdadeiro. E as coisas verdadeiras às vezes machucam.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 800,
+        "frase": "A felicidade não está em viver, mas em saber viver. Não vive mais o que mais vive, mas o que melhor vive, porque a vida não mede o tempo, mas o emprego que dela fazemos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 801,
+        "frase": "Aquele que desperdiça o dia de hoje, lamentando o de ontem, desperdiçará o de amanhã, lamentando o de hoje.",
+        "autor": "P. Raskin"
+    },
+    {
+        "id": 802,
+        "frase": "Quando você tiver provado a sensação de voar, andará na terra com seus olhos voltados ao céu, pois lá você esteve e para lá desejará retornar.",
+        "autor": "Leonardo Da Vinci"
+    },
+    {
+        "id": 803,
+        "frase": "Não procure alguém que te complete. Complete a si mesmo e procure alguém que te transborde.",
+        "autor": "Clarice Lispector"
+    },
+    {
+        "id": 804,
+        "frase": "Paz não significa ausência de aflição, mas sim presença de Deus.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 805,
+        "frase": "E nessas pancadas da vida, a gente aprende que as pessoas não ficam até o final.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 806,
+        "frase": "É engraçado como as meninas fogem dos caras que tentam fazê-las felizes, e lutam por aqueles que as fazem chorar.",
+        "autor": "Tati Bernardi"
+    },
+    {
+        "id": 807,
+        "frase": "Para que as coisas aconteçam do jeito que deseja, é só aceitá-las do jeito que acontecem.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 808,
+        "frase": "O problema do mundo de hoje é que as pessoas inteligentes estão cheias de dúvidas, e as pessoas idiotas estão cheias de certezas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 809,
+        "frase": "Se quiser encontrar sua felicidade na Terra, deve começar a esquecer as ofensas. Perdoe a todos pelo mal que lhe fizeram.",
+        "autor": "Zíbia Gasparetto"
+    },
+    {
+        "id": 810,
+        "frase": "Por mais que a verdade doa, a sinceridade nunca magoa.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 811,
+        "frase": "São as nossas escolhas que revelam o que realmente somos, muito mais do que as nossas qualidades.",
+        "autor": "Alvo Dumbledore"
+    },
+    {
+        "id": 812,
+        "frase": "Amar não é apoderar-se do outro para completar-se, mas dar-se ao outro para completá-lo.",
+        "autor": "Lao-Tsé"
+    },
+    {
+        "id": 813,
+        "frase": "O exercício do silêncio é tão importante \r\nquanto a prática da palavra.",
+        "autor": "William James"
+    },
+    {
+        "id": 814,
+        "frase": "Aquilo que nos fere é aquilo que nos cura. A vida tem sido muito dura comigo, mas ao mesmo tempo tem me ensinado muita coisa.",
+        "autor": "Caio Fernando Abreu"
+    },
+    {
+        "id": 815,
+        "frase": "Hoje não sou nada! Mas amanhã? Então não me julgues hoje, para não ter que te condenar amanhã.",
+        "autor": "Rodrigo Aragão"
+    },
+    {
+        "id": 816,
+        "frase": "A inveja é fruto da incapacidade.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 817,
+        "frase": "Imagine todas as pessoas vivendo a vida em paz.",
+        "autor": "John Lennon - Trecho de"
+    },
+    {
+        "id": 818,
+        "frase": "Se eu pudesse eu pegava a dor. Colocava dentro de um envelope e devolvia ao remetente!",
+        "autor": "Mário Quintana"
+    },
+    {
+        "id": 819,
+        "frase": "Quando chegar aquilo que é perfeito, \r\ntudo o que é imperfeito desaparece.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 820,
+        "frase": "Vivemos com o que recebemos, mas marcamos a vida com o que damos.",
+        "autor": "Winston Churchill"
+    },
+    {
+        "id": 821,
+        "frase": "Às vezes você perdoa as pessoas porque simplesmente você ainda as quer em sua vida.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 822,
+        "frase": "As mentiras mais cruéis são frequentemente ditas em silêncio.",
+        "autor": "Robert Stevenson"
+    },
+    {
+        "id": 823,
+        "frase": "Nem sempre o verdadeiro vencedor é o que venceu a luta; mas sim, aquele que lutou com dignidade.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 824,
+        "frase": "Portanto, submetam-se a Deus. Resistam ao Diabo, e ele fugirá de vocês. \r\nTiago 4:7",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 825,
+        "frase": "Não sei onde eu tô indo. Mas sei que tô no meu caminho.",
+        "autor": "Raul Seixas"
+    },
+    {
+        "id": 826,
+        "frase": "Não tenha pressa, mas não perca tempo.",
+        "autor": "José Saramago"
+    },
+    {
+        "id": 827,
+        "frase": "Se você está deprimido, \r\nVocê está vivendo no passado; \r\nSe você está ansioso, \r\nVocê está vivendo no futuro; \r\nSe você está em paz  \r\nVocê está vivendo no momento presente.",
+        "autor": "Lao Tzu"
+    },
+    {
+        "id": 828,
+        "frase": "Quanto mais suave é o tom de sua voz ao argumentar, mais você será respeitado. Grite, e a razão o abandonará completamente.",
+        "autor": "Zhane Kastro"
+    },
+    {
+        "id": 829,
+        "frase": "O que machuca não é o amor, são as pessoas. O amor é só um sentimento.",
+        "autor": "Esteban Tavares"
+    },
+    {
+        "id": 830,
+        "frase": "As pessoas querem te ver bem, mas nunca, melhor que elas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 831,
+        "frase": "A lei da selva é traiçoeira, surpresa. Hoje você é o predador, amanhã é a presa.",
+        "autor": "Racionais MC's"
+    },
+    {
+        "id": 832,
+        "frase": "Eu me cobrava tanto ser feliz que às vezes perdia a noção de que já era.",
+        "autor": "Tati Bernardi"
+    },
+    {
+        "id": 833,
+        "frase": "O nosso problema é pensarmos que palavras e o modo como são ditas não têm o poder de esmagar um coração.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 834,
+        "frase": "Que as mentiras alheias não confundam as nossas verdades.",
+        "autor": "Caio Fernando Abreu"
+    },
+    {
+        "id": 835,
+        "frase": "Cuidar de nossas raízes nos ajuda a viver melhor. Não podemos pensar só nas folhas e frutos, é preciso dar atenção também às nossas raízes.",
+        "autor": "Pe. Fábio de Melo"
+    },
+    {
+        "id": 836,
+        "frase": "A raiva pode ser breve, mas pode causar danos que vão durar para sempre.",
+        "autor": "Jeannie Tenney"
+    },
+    {
+        "id": 837,
+        "frase": "Sofrer dói. Dói e não é pouco. Mas faz um bem danado depois que passa.",
+        "autor": "Caio Fernando de Abreu"
+    },
+    {
+        "id": 838,
+        "frase": "Quem conhece um sorriso de verdade sabe que nem todo palhaço é feliz.",
+        "autor": "Thiago Lobo"
+    },
+    {
+        "id": 839,
+        "frase": "Não viva no passado, não sonhe com o futuro, concentre a mente no momento presente.",
+        "autor": "Sakyamuni"
+    },
+    {
+        "id": 840,
+        "frase": "Quando um homem se torna melhor, compreende cada vez mais claramente o mal que ainda existe em si. Quando um homem se torna pior, percebe cada vez menos a sua própria maldade.",
+        "autor": "C.S. Lewis"
+    },
+    {
+        "id": 841,
+        "frase": "A imaturidade nos faz andar por caminhos dolorosos.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 842,
+        "frase": "O que me preocupa não é o grito dos maus. É o silêncio dos bons.",
+        "autor": "Martin Luther King"
+    },
+    {
+        "id": 843,
+        "frase": "Para quê preocuparmo-nos com a morte? A vida tem tantos problemas que temos de resolver primeiro.",
+        "autor": "Confúcio"
+    },
+    {
+        "id": 844,
+        "frase": "Não basta saber, é preciso aplicar. Não basta querer, é preciso também agir.",
+        "autor": "Goethe"
+    },
+    {
+        "id": 845,
+        "frase": "Para que levar a vida tão a sério, se a vida é uma alucinante aventura da qual jamais sairemos vivos.",
+        "autor": "Bob Marley"
+    },
+    {
+        "id": 846,
+        "frase": "O começo da sabedoria é encontrado na dúvida; duvidando começamos a questionar, e procurando podemos achar a verdade.",
+        "autor": "Pierre Abélard"
+    },
+    {
+        "id": 847,
+        "frase": "Qualquer pessoa de sucesso sabe que é uma peça importante, mas que não conseguirá nada sozinha.",
+        "autor": "Bernardinho"
+    },
+    {
+        "id": 848,
+        "frase": "Há pessoas que só confiam em Deus quando Ele faz o que elas esperam.",
+        "autor": "Ivone Avlis"
+    },
+    {
+        "id": 849,
+        "frase": "A vida tem a cor que você pinta!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 850,
+        "frase": "Já caí inúmeras vezes achando que não iria me reerguer, já me reergui inúmeras vezes achando que não cairia mais.",
+        "autor": "Clarice Linspector"
+    },
+    {
+        "id": 851,
+        "frase": "Ama a todos, confia em poucos, não faça mal a ninguém.",
+        "autor": "William Shakespeare"
+    },
+    {
+        "id": 852,
+        "frase": "Se meus olhos mostrassem a minha alma, todos ao me verem sorrir chorariam comigo.",
+        "autor": "Kurt Cobain"
+    },
+    {
+        "id": 853,
+        "frase": "Precisamos de sabedoria e humildade. A primeira para enfrentar as adversidades e a segunda, para aceitá-las.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 854,
+        "frase": "No mundo em que vivemos ter opinião é ser do contra!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 855,
+        "frase": "É difícil dizer adeus, quando a vontade é ter por perto.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 856,
+        "frase": "A criança que você era, teria orgulho da pessoa que você é hoje?",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 857,
+        "frase": "A vida é a arte do encontro, embora haja tanto desencontro pela vida.",
+        "autor": "Vinicius de Moraes"
+    },
+    {
+        "id": 858,
+        "frase": "Tem dias que não existem emoções, nem pensamentos: só dor!",
+        "autor": "CFA"
+    },
+    {
+        "id": 859,
+        "frase": "O que somos hoje e o que seremos amanhã depende de nossos pensamentos. Se procedo mal, sofro as consequências; se procedo bem, eu mesmo me purifico.",
+        "autor": "Buda"
+    },
+    {
+        "id": 860,
+        "frase": "A beleza só importa nos primeiros 15 minutos. Depois você tem que ter algo a mais para oferecer.",
+        "autor": "Fernanda Montenegro"
+    },
+    {
+        "id": 861,
+        "frase": "Muitos dizem que você não vai conseguir \r\nmas quem realmente decide isso é você.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 862,
+        "frase": "Quase sempre, quem menos tem é quem mais compartilha.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 863,
+        "frase": "Um monte de verdade é dita em tom de brincadeira.",
+        "autor": "Eminem"
+    },
+    {
+        "id": 864,
+        "frase": "Sabe o que dói? É fingir que não tá doendo nada.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 865,
+        "frase": "Não é um deus que julga as pessoas, mas é a própria pessoa que faz o julgamento de si mesmo.",
+        "autor": "Daisaku Ikeda"
+    },
+    {
+        "id": 866,
+        "frase": "Lutemos por um mundo novo... um mundo bom que a todos assegura o ensejo de trabalho, que dê futuro à juventude e segurança à velhice.",
+        "autor": "Charles Chaplin"
+    },
+    {
+        "id": 867,
+        "frase": "Amar é muito mais do que dizer um eu te amo.💜",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 868,
+        "frase": "Quem diz que o dinheiro compra tudo, está à venda.",
+        "autor": "Georges Najjar Jr."
+    },
+    {
+        "id": 869,
+        "frase": "E tem gente que precisa aprender que palavras machucam mais que um tapa na cara.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 870,
+        "frase": "E essa é a alquimia interior: um problema desaparece se você o aceita, e um problema torna-se mais e mais complexo se você entra em conflito com ele.",
+        "autor": "Osho"
+    },
+    {
+        "id": 871,
+        "frase": "Os abraços foram feitos para expressar o que as palavras deixam a desejar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 872,
+        "frase": "A única coisa que está em seu caminho, é você mesma.",
+        "autor": "Cisne Negro - 2010"
+    },
+    {
+        "id": 873,
+        "frase": "A sabedoria é o melhor guia e a fé, a melhor companheira. Deve-se pois, fugir das trevas da ignorância e do sofrimento, deve-se procurar a luz da Iluminação.",
+        "autor": "Sakyamuni"
+    },
+    {
+        "id": 874,
+        "frase": "Sábio é aquele que conhece os limites da própria ignorância.",
+        "autor": "Sócrates"
+    },
+    {
+        "id": 875,
+        "frase": "A vida é aquilo que acontece enquanto você faz planos.",
+        "autor": "John Lennon"
+    },
+    {
+        "id": 876,
+        "frase": "Porque, pra viver de verdade, a gente tem que quebrar a cara. Tem que tentar e não conseguir. Achar que vai dar e ver que não deu.",
+        "autor": "Caio F. Abreu"
+    },
+    {
+        "id": 877,
+        "frase": "É difícil esquecer algo que deixou marcas tão profundas.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 878,
+        "frase": "Ajo como se estivesse bem, mas não estou.",
+        "autor": "Gossip Girl"
+    },
+    {
+        "id": 879,
+        "frase": "Não vale a pena viver sonhando, e se esquecer de viver.",
+        "autor": "Dumbledore"
+    },
+    {
+        "id": 880,
+        "frase": "Às vezes, quando ainda valia a pena, eu ficava horas pensando que podia voltar tudo a ser como antes.",
+        "autor": "Caio Fernando Abreu"
+    },
+    {
+        "id": 881,
+        "frase": "Desejar ser outra pessoa é um desperdício da pessoa que você é.",
+        "autor": "Kurt Cobain"
+    },
+    {
+        "id": 882,
+        "frase": "Quando você souber que sua hora está chegando, talvez então comece a entender, que a vida aqui embaixo é apenas uma ilusão.",
+        "autor": "Hallowed Be Thy Name - Iron Maiden"
+    },
+    {
+        "id": 883,
+        "frase": "Nunca é alto o preço a pagar pelo privilégio de pertencer a si mesmo...",
+        "autor": "Nietzsche"
+    },
+    {
+        "id": 884,
+        "frase": "Não é sinal de saúde estar bem ajustado a uma sociedade profundamente doente.",
+        "autor": "J. Krishnamurti"
+    },
+    {
+        "id": 885,
+        "frase": "Fico triste quando alguém me ofende, mas, com certeza eu ficaria mais triste se fosse eu o ofensor.",
+        "autor": "Chico Xavier"
+    },
+    {
+        "id": 886,
+        "frase": "Bem feito é melhor do que bem explicado.",
+        "autor": "Benjamin Franklin"
+    },
+    {
+        "id": 887,
+        "frase": "As pessoas estão tão voltadas ao mundo material, não têm paciência de esperar, querem fazer tudo sozinhas.",
+        "autor": "Zíbia Gasparetto"
+    },
+    {
+        "id": 888,
+        "frase": "Às vezes se fica tanto tempo sozinho, que a solidão deixa de ser ausência e passa se tornar companhia.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 889,
+        "frase": "Sinceridade em demasia destrói bons relacionamentos. As pessoas em geral não se atraem pela verdade, mas sim pelas aparências.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 890,
+        "frase": "A imaginação é mais importante que o conhecimento. O conhecimento é limitado. A imaginação envolve o mundo.",
+        "autor": "Albert Einstein"
+    },
+    {
+        "id": 891,
+        "frase": "A vida não exige das pessoas o que elas ainda não têm condições de dar.",
+        "autor": "Zíbia Gasparetto"
+    },
+    {
+        "id": 892,
+        "frase": "O que se faz agora com as crianças, é o que elas farão depois com a sociedade.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 893,
+        "frase": "Eis o meu segredo. É muito simples: só se vê bem com o coração. O essencial é invisível aos olhos.",
+        "autor": "(O Pequeno Príncipe)"
+    },
+    {
+        "id": 894,
+        "frase": "Quem espera por soluções prontas, tende a viver sempre sob a decisão dos outros.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 895,
+        "frase": "O mundo tem muitas coisas boas a oferecer para quem tem a ousadia de buscar!",
+        "autor": "Zíbia Gasparetto"
+    },
+    {
+        "id": 896,
+        "frase": "Oh! Que formosa aparência tem a falsidade. 🙄",
+        "autor": "William Shakespeare"
+    },
+    {
+        "id": 897,
+        "frase": "Não espere por uma crise para descobrir o que é importante em sua vida.",
+        "autor": "Platão"
+    },
+    {
+        "id": 898,
+        "frase": "Depois de um tempo você aprende que não importa o quanto você se importe, algumas pessoas simplesmente não se importam.",
+        "autor": "William shakespeare"
+    },
+    {
+        "id": 899,
+        "frase": "A pior traição sempre vem daqueles em que mais confiamos.",
+        "autor": "Revenge"
+    },
+    {
+        "id": 900,
+        "frase": "É mais fácil obter o que se deseja com um sorriso do que com a ponta da espada.",
+        "autor": "William Shakespeare"
+    },
+    {
+        "id": 901,
+        "frase": "Não existe amor impossível, apenas pessoas incapazes de lutar por aquilo que chamam de amor.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 902,
+        "frase": "É uma verdade básica da condição humana que todo mundo mente. A única variável é sobre o quê.",
+        "autor": "Dr. House"
+    },
+    {
+        "id": 903,
+        "frase": "Não há o que valha a paz de consciência!",
+        "autor": "Miriam Villa Menezes"
+    },
+    {
+        "id": 904,
+        "frase": "Essa coisa chamada ‘história de amor’ requer um certo tempo para ser construída, e as que dão certo são aquelas vividas com paciência…",
+        "autor": "Martha Medeiros"
+    },
+    {
+        "id": 905,
+        "frase": "O trabalho só cansa, se não nos dedicarmos a ele com alegria.",
+        "autor": "Rabindranath Tagore"
+    },
+    {
+        "id": 906,
+        "frase": "Se um homem não descobriu nada pelo qual morreria, não está pronto para viver.",
+        "autor": "Martin Luther King Junior"
+    },
+    {
+        "id": 907,
+        "frase": "Uma coisa é você achar que está no caminho certo, outra é achar que seu caminho é o único.",
+        "autor": "Paulo Coelho"
+    },
+    {
+        "id": 908,
+        "frase": "A mente que se abre a uma nova idéia jamais voltará ao seu tamanho original.",
+        "autor": "Albert Einsten"
+    },
+    {
+        "id": 909,
+        "frase": "Muitos que vivem merecem a morte. E alguns que morrem merecem viver. Você pode dar-lhes vida? Então não seja tão ávido para julgar e condenar alguém à morte. Pois mesmo os muito sábios não conseguem ver os dois lados.",
+        "autor": "Gandalf (Senhor dos Anéis)"
+    },
+    {
+        "id": 910,
+        "frase": "O que a gente sente ninguém tem nada a ver.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 911,
+        "frase": "Há riqueza bastante no mundo para as necessidades do homem, mas não para a sua ambição.",
+        "autor": "Mahatma Gandhi"
+    },
+    {
+        "id": 912,
+        "frase": "Se você obedece todas as regras, acaba perdendo a diversão.",
+        "autor": "Bob Marley"
+    },
+    {
+        "id": 913,
+        "frase": "Fiquei magoado, não por me teres mentido, mas por não poder voltar a acreditar em ti.",
+        "autor": "Friedrich Nietzsche"
+    },
+    {
+        "id": 914,
+        "frase": "Dizem que o tempo resolve tudo. A questão é: Quanto tempo?",
+        "autor": "Alice no País das Maravilhas"
+    },
+    {
+        "id": 915,
+        "frase": "O ser humano morre não quando o seu coração deixa de pulsar, mas quando de alguma forma deixa de se sentir importante.",
+        "autor": "Augusto Cury"
+    },
+    {
+        "id": 916,
+        "frase": "Perder tempo em aprender coisas que não interessam, priva-nos de descobrir coisas interessantes.",
+        "autor": "Carlos Drummond Andrade"
+    },
+    {
+        "id": 917,
+        "frase": "Quem pensa pouco erra muito.",
+        "autor": "Leonardo da Vinci"
+    },
+    {
+        "id": 918,
+        "frase": "O invejoso se queima por dentro e por fora pela própria inveja.",
+        "autor": "Albertano da Brescia"
+    },
+    {
+        "id": 919,
+        "frase": "‎Estar com alguém errado, é lembrar em dobro a falta que faz alguém certo.",
+        "autor": "Tati Bernardi"
+    },
+    {
+        "id": 920,
+        "frase": "Somos o que repetidamente fazemos. A excelência, portanto, não é um efeito, mas um hábito.",
+        "autor": "Aristóteles"
+    },
+    {
+        "id": 921,
+        "frase": "Um verdadeiro homem não é aquele que ganha uma batalha, mas sim aquele que evita uma guerra.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 922,
+        "frase": "A liberdade é a possibilidade do isolamento. Se é impossível viver só, você nasceu escravo.",
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 923,
+        "frase": "O mundo não está interessado nos temporais que você encontrou. Ele quer saber se você trouxe o navio.",
+        "autor": "William McFee"
+    },
+    {
+        "id": 924,
+        "frase": "Sonho é algo que preenche o vazio interior. Algo que, caso vire realidade, fará toda a dor ir embora.",
+        "autor": "Glee"
+    },
+    {
+        "id": 925,
+        "frase": "A consciência tranquila é a almofada mais fofa!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 926,
+        "frase": "Sucesso é conseguir o que você quer. Felicidade é gostar do que você conseguiu.",
+        "autor": "Dale Carnegie"
+    },
+    {
+        "id": 927,
+        "frase": "O sucesso geralmente vem para aqueles que estão muito ocupados para estarem procurando por ele.",
+        "autor": "Henry David Thoreau"
+    },
+    {
+        "id": 928,
+        "frase": "A loucura é como a gravidade. Só precisa de um empurrão.",
+        "autor": "Coringa"
+    },
+    {
+        "id": 929,
+        "frase": "Tire o seu racismo do caminho, que eu quero passar com a minha cor.",
+        "autor": "Georges Najjar Jr"
+    },
+    {
+        "id": 930,
+        "frase": "É muito fácil ser bom, quando está tudo bem!",
+        "autor": "Glória Pires"
+    },
+    {
+        "id": 931,
+        "frase": "Quando não temos capacidade para manter, então é melhor nem começar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 932,
+        "frase": "É muita gente apaixonada, para pouca gente que vale a pena se apaixonar.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 933,
+        "frase": "O segredo da saúde da mente e do corpo está em não lamentar o passado, em não se afligir com o futuro e em não antecipar preocupações; mas está no viver sabiamente e seriamente o presente momento.",
+        "autor": "Sakyamuni"
+    }
+]

@@ -170,7 +170,7 @@ const lastUpdated = ref('');
 const isDarkMode = ref(false);
 const activeFetch = ref('');
 
-const API_BASE = 'http://127.0.0.1:8080'; // Ou seu endereço de API
+const API_BASE = 'https://quote-of-the-day-raps.onrender.com/'; // Ou seu endereço de API
 let dayCheckerInterval = null;
 
 const currentDate = computed(() => {

@@ -36,8 +36,8 @@ try:
         # --- FIM DA ADIÇÃO ---
 
         # Inicialize o modelo (MUDANÇA AQUI para o modelo da sua lista)
-        gemini_model = genai.GenerativeModel('models/gemini-2.5-flash-preview-09-2025')
-        print("Modelo Gemini ('models/gemini-2.5-flash-preview-09-2025') inicializado.")
+        gemini_model = genai.GenerativeModel('models/gemini-2.5-flash')
+
 
 except Exception as e:
     print(f"Falha ao carregar o modelo Gemini: {e}")

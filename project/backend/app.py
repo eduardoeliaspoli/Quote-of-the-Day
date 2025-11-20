@@ -117,10 +117,5 @@ def get_frase_ia():
 
 
 if __name__ == "__main__":
-    try:
-        print("Iniciando API de Frases (com JSON e IA) em 127.0.0.1:8080 ...")
-        app.run(host="127.0.0.1", port=8080, debug=True)
-    except OSError as e:
-        print(f"Falha ao iniciar o servidor: {e}")
-        print("Dica: verifique se a porta 8080 está livre ou se há restrições de firewall/antivírus.")
+    app.run(host="0.0.0.0", port=int(os.getenv("PORT", 8080)))
 
